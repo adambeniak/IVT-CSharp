@@ -1,0 +1,30 @@
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\bin\Debug\Celková cena.exe.config
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\bin\Debug\Celková cena.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\bin\Debug\Celková cena.pdb
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková cena.csproj.AssemblyReference.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková_cena.oknoProgramu.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková_cena.Properties.Resources.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková cena.csproj.GenerateResource.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková cena.csproj.CoreCompileInputs.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková cena.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková cena.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\bin\Debug\Celková cena.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\bin\Debug\Celková cena.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\bin\Debug\Celková cena.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková cena.csproj.AssemblyReference.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková_cena.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková_cena.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková cena.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková cena.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková cena.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková cena.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Celková cena\Celková cena\bin\Debug\Celková cena.exe.config
+G:\2023-2024\Ivz 7.P\Programování\05\Celková cena\Celková cena\bin\Debug\Celková cena.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Celková cena\Celková cena\bin\Debug\Celková cena.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková cena.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková_cena.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková_cena.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková cena.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková cena.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková cena.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Celková cena\Celková cena\obj\Debug\Celková cena.pdb

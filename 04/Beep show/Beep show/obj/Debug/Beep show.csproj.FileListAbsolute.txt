@@ -1,0 +1,29 @@
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep_show.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep_show.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep show.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep show.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Beep show\Beep show\bin\Debug\Beep show.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Beep show\Beep show\bin\Debug\Beep show.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Beep show\Beep show\bin\Debug\Beep show.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep show.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep show.pdb
+G:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\bin\Debug\Beep show.exe.config
+G:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\bin\Debug\Beep show.exe
+G:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\bin\Debug\Beep show.pdb
+G:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep show.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep_show.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep_show.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep show.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep show.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep show.exe
+G:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep show.pdb
+E:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\bin\Debug\Beep show.exe.config
+E:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\bin\Debug\Beep show.exe
+E:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\bin\Debug\Beep show.pdb
+E:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep show.csproj.AssemblyReference.cache
+E:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep_show.oknoProgramu.resources
+E:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep_show.Properties.Resources.resources
+E:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep show.csproj.GenerateResource.cache
+E:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep show.csproj.CoreCompileInputs.cache
+E:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep show.exe
+E:\2023-2024\Ivz 7.P\Programování\04\Beep show\Beep show\obj\Debug\Beep show.pdb

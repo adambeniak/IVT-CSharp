@@ -1,0 +1,18 @@
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Tečka na zadané pozici\bin\Debug\Tečka na zadané pozici.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Tečka na zadané pozici\bin\Debug\Tečka na zadané pozici.pdb
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Tečka na zadané pozici\obj\Debug\ResolveAssemblyReference.cache
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Tečka na zadané pozici\obj\Debug\Tečka_na_zadané_pozici.oknoProgramu.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Tečka na zadané pozici\obj\Debug\Tečka_na_zadané_pozici.Properties.Resources.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Tečka na zadané pozici\obj\Debug\GenerateResource.read.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Tečka na zadané pozici\obj\Debug\GenerateResource.write.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Tečka na zadané pozici\obj\Debug\Tečka na zadané pozici.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Tečka na zadané pozici\obj\Debug\Tečka na zadané pozici.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Tečka na zadané pozici\bin\Debug\Tečka na zadané pozici.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Tečka na zadané pozici\bin\Debug\Tečka na zadané pozici.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Tečka na zadané pozici\obj\Debug\Tečka na zadané pozici.csproj.AssemblyReference.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Tečka na zadané pozici\obj\Debug\Tečka_na_zadané_pozici.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Tečka na zadané pozici\obj\Debug\Tečka_na_zadané_pozici.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Tečka na zadané pozici\obj\Debug\Tečka na zadané pozici.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Tečka na zadané pozici\obj\Debug\Tečka na zadané pozici.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Tečka na zadané pozici\obj\Debug\Tečka na zadané pozici.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Tečka na zadané pozici\obj\Debug\Tečka na zadané pozici.pdb

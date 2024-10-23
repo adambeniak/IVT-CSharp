@@ -1,0 +1,9 @@
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Výčet TextAlign\bin\Debug\Výčet TextAlign.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Výčet TextAlign\bin\Debug\Výčet TextAlign.pdb
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Výčet TextAlign\obj\Debug\ResolveAssemblyReference.cache
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Výčet TextAlign\obj\Debug\Výčet_TextAlign.oknoProgramu.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Výčet TextAlign\obj\Debug\Výčet_TextAlign.Properties.Resources.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Výčet TextAlign\obj\Debug\GenerateResource.read.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Výčet TextAlign\obj\Debug\GenerateResource.write.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Výčet TextAlign\obj\Debug\Výčet TextAlign.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Výčet TextAlign\obj\Debug\Výčet TextAlign.pdb

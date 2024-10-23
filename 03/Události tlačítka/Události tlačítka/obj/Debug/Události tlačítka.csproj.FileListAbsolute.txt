@@ -1,0 +1,10 @@
+G:\2023-2024\Ivz 7.P\Programování\03\Události tlačítka\Události tlačítka\bin\Debug\Události tlačítka.exe.config
+G:\2023-2024\Ivz 7.P\Programování\03\Události tlačítka\Události tlačítka\bin\Debug\Události tlačítka.exe
+G:\2023-2024\Ivz 7.P\Programování\03\Události tlačítka\Události tlačítka\bin\Debug\Události tlačítka.pdb
+G:\2023-2024\Ivz 7.P\Programování\03\Události tlačítka\Události tlačítka\obj\Debug\Události tlačítka.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\03\Události tlačítka\Události tlačítka\obj\Debug\Události_tlačítka.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\03\Události tlačítka\Události tlačítka\obj\Debug\Události_tlačítka.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\03\Události tlačítka\Události tlačítka\obj\Debug\Události tlačítka.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\03\Události tlačítka\Události tlačítka\obj\Debug\Události tlačítka.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\03\Události tlačítka\Události tlačítka\obj\Debug\Události tlačítka.exe
+G:\2023-2024\Ivz 7.P\Programování\03\Události tlačítka\Události tlačítka\obj\Debug\Události tlačítka.pdb

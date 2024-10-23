@@ -1,0 +1,10 @@
+G:\2023-2024\Ivz 7.P\Programování\02\Poznejte textové pole\Poznejte textové pole\bin\Debug\Poznejte textové pole.exe.config
+G:\2023-2024\Ivz 7.P\Programování\02\Poznejte textové pole\Poznejte textové pole\bin\Debug\Poznejte textové pole.exe
+G:\2023-2024\Ivz 7.P\Programování\02\Poznejte textové pole\Poznejte textové pole\bin\Debug\Poznejte textové pole.pdb
+G:\2023-2024\Ivz 7.P\Programování\02\Poznejte textové pole\Poznejte textové pole\obj\Debug\Poznejte textové pole.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Poznejte textové pole\Poznejte textové pole\obj\Debug\Poznejte_textové_pole.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\02\Poznejte textové pole\Poznejte textové pole\obj\Debug\Poznejte_textové_pole.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\02\Poznejte textové pole\Poznejte textové pole\obj\Debug\Poznejte textové pole.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Poznejte textové pole\Poznejte textové pole\obj\Debug\Poznejte textové pole.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Poznejte textové pole\Poznejte textové pole\obj\Debug\Poznejte textové pole.exe
+G:\2023-2024\Ivz 7.P\Programování\02\Poznejte textové pole\Poznejte textové pole\obj\Debug\Poznejte textové pole.pdb

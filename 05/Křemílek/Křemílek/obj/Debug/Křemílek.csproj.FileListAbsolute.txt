@@ -1,0 +1,20 @@
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Křemílek\Křemílek\bin\Debug\Křemílek.exe.config
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Křemílek\Křemílek\bin\Debug\Křemílek.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Křemílek\Křemílek\bin\Debug\Křemílek.pdb
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Křemílek\Křemílek\obj\Debug\Křemílek.csproj.AssemblyReference.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Křemílek\Křemílek\obj\Debug\Křemílek.oknoProgramu.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Křemílek\Křemílek\obj\Debug\Křemílek.Properties.Resources.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Křemílek\Křemílek\obj\Debug\Křemílek.csproj.GenerateResource.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Křemílek\Křemílek\obj\Debug\Křemílek.csproj.CoreCompileInputs.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Křemílek\Křemílek\obj\Debug\Křemílek.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Křemílek\Křemílek\obj\Debug\Křemílek.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Křemílek\Křemílek\bin\Debug\Křemílek.exe.config
+G:\2023-2024\Ivz 7.P\Programování\05\Křemílek\Křemílek\bin\Debug\Křemílek.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Křemílek\Křemílek\bin\Debug\Křemílek.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Křemílek\Křemílek\obj\Debug\Křemílek.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Křemílek\Křemílek\obj\Debug\Křemílek.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Křemílek\Křemílek\obj\Debug\Křemílek.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Křemílek\Křemílek\obj\Debug\Křemílek.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Křemílek\Křemílek\obj\Debug\Křemílek.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Křemílek\Křemílek\obj\Debug\Křemílek.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Křemílek\Křemílek\obj\Debug\Křemílek.pdb

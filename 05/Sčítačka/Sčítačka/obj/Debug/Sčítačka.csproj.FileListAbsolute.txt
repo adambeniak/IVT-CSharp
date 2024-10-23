@@ -1,0 +1,40 @@
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\bin\Debug\Sčítačka.exe.config
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\bin\Debug\Sčítačka.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\bin\Debug\Sčítačka.pdb
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.csproj.AssemblyReference.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.oknoProgramu.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.Properties.Resources.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.csproj.GenerateResource.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.csproj.CoreCompileInputs.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.pdb
+E:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\bin\Debug\Sčítačka.exe.config
+E:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\bin\Debug\Sčítačka.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\bin\Debug\Sčítačka.pdb
+E:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.csproj.AssemblyReference.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.oknoProgramu.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.Properties.Resources.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.csproj.GenerateResource.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.csproj.CoreCompileInputs.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sčítačka\Sčítačka\bin\Debug\Sčítačka.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sčítačka\Sčítačka\bin\Debug\Sčítačka.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sčítačka\Sčítačka\bin\Debug\Sčítačka.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sčítačka\Sčítačka\obj\Debug\Sčítačka.csproj.AssemblyReference.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sčítačka\Sčítačka\obj\Debug\Sčítačka.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sčítačka\Sčítačka\obj\Debug\Sčítačka.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sčítačka\Sčítačka\obj\Debug\Sčítačka.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sčítačka\Sčítačka\obj\Debug\Sčítačka.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sčítačka\Sčítačka\obj\Debug\Sčítačka.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sčítačka\Sčítačka\obj\Debug\Sčítačka.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Sčítačka\Sčítačka\bin\Debug\Sčítačka.exe.config
+G:\2023-2024\Ivz 7.P\Programování\05\Sčítačka\Sčítačka\bin\Debug\Sčítačka.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Sčítačka\Sčítačka\bin\Debug\Sčítačka.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Sčítačka\Sčítačka\obj\Debug\Sčítačka.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Sčítačka\Sčítačka\obj\Debug\Sčítačka.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Sčítačka\Sčítačka\obj\Debug\Sčítačka.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Sčítačka\Sčítačka\obj\Debug\Sčítačka.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Sčítačka\Sčítačka\obj\Debug\Sčítačka.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Sčítačka\Sčítačka\obj\Debug\Sčítačka.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Sčítačka\Sčítačka\obj\Debug\Sčítačka.pdb

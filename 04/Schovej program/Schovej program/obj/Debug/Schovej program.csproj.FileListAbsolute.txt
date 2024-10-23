@@ -1,0 +1,29 @@
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Schovej program\Schovej program\bin\Debug\Schovej program.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Schovej program\Schovej program\bin\Debug\Schovej program.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Schovej program\Schovej program\bin\Debug\Schovej program.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej_program.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej_program.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej program.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej program.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej program.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej program.pdb
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\bin\Debug\Schovej program.exe.config
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\bin\Debug\Schovej program.exe
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\bin\Debug\Schovej program.pdb
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej program.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej_program.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej_program.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej program.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej program.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej program.exe
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej program.pdb
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\bin\Debug\Schovej program.exe.config
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\bin\Debug\Schovej program.exe
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\bin\Debug\Schovej program.pdb
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej program.csproj.AssemblyReference.cache
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej_program.oknoProgramu.resources
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej_program.Properties.Resources.resources
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej program.csproj.GenerateResource.cache
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej program.csproj.CoreCompileInputs.cache
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej program.exe
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej program\Schovej program\obj\Debug\Schovej program.pdb

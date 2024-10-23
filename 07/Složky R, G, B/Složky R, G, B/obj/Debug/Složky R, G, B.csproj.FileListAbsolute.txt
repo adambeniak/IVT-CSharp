@@ -1,0 +1,20 @@
+E:\2021-2022\Ivz 3.A 7.P\Programování\07\Složky R, G, B\Složky R, G, B\bin\Debug\Složky R, G, B.exe.config
+E:\2021-2022\Ivz 3.A 7.P\Programování\07\Složky R, G, B\Složky R, G, B\bin\Debug\Složky R, G, B.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\07\Složky R, G, B\Složky R, G, B\bin\Debug\Složky R, G, B.pdb
+E:\2021-2022\Ivz 3.A 7.P\Programování\07\Složky R, G, B\Složky R, G, B\obj\Debug\Složky R, G, B.csproj.AssemblyReference.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\07\Složky R, G, B\Složky R, G, B\obj\Debug\Složky_R__G__B.oknoProgramu.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\07\Složky R, G, B\Složky R, G, B\obj\Debug\Složky_R__G__B.Properties.Resources.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\07\Složky R, G, B\Složky R, G, B\obj\Debug\Složky R, G, B.csproj.GenerateResource.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\07\Složky R, G, B\Složky R, G, B\obj\Debug\Složky R, G, B.csproj.CoreCompileInputs.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\07\Složky R, G, B\Složky R, G, B\obj\Debug\Složky R, G, B.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\07\Složky R, G, B\Složky R, G, B\obj\Debug\Složky R, G, B.pdb
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Složky R, G, B\Složky R, G, B\bin\Debug\Složky R, G, B.exe.config
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Složky R, G, B\Složky R, G, B\bin\Debug\Složky R, G, B.exe
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Složky R, G, B\Složky R, G, B\bin\Debug\Složky R, G, B.pdb
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Složky R, G, B\Složky R, G, B\obj\Debug\Složky R, G, B.csproj.AssemblyReference.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Složky R, G, B\Složky R, G, B\obj\Debug\Složky_R__G__B.oknoProgramu.resources
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Složky R, G, B\Složky R, G, B\obj\Debug\Složky_R__G__B.Properties.Resources.resources
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Složky R, G, B\Složky R, G, B\obj\Debug\Složky R, G, B.csproj.GenerateResource.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Složky R, G, B\Složky R, G, B\obj\Debug\Složky R, G, B.csproj.CoreCompileInputs.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Složky R, G, B\Složky R, G, B\obj\Debug\Složky R, G, B.exe
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Složky R, G, B\Složky R, G, B\obj\Debug\Složky R, G, B.pdb

@@ -1,0 +1,20 @@
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Úhlopříčky\Úhlopříčky\bin\Debug\Úhlopříčky.exe.config
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Úhlopříčky\Úhlopříčky\bin\Debug\Úhlopříčky.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Úhlopříčky\Úhlopříčky\bin\Debug\Úhlopříčky.pdb
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Úhlopříčky\Úhlopříčky\obj\Debug\Úhlopříčky.csproj.AssemblyReference.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Úhlopříčky\Úhlopříčky\obj\Debug\Úhlopříčky.oknoProgramu.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Úhlopříčky\Úhlopříčky\obj\Debug\Úhlopříčky.Properties.Resources.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Úhlopříčky\Úhlopříčky\obj\Debug\Úhlopříčky.csproj.GenerateResource.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Úhlopříčky\Úhlopříčky\obj\Debug\Úhlopříčky.csproj.CoreCompileInputs.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Úhlopříčky\Úhlopříčky\obj\Debug\Úhlopříčky.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Úhlopříčky\Úhlopříčky\obj\Debug\Úhlopříčky.pdb
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky\Úhlopříčky\bin\Debug\Úhlopříčky.exe.config
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky\Úhlopříčky\bin\Debug\Úhlopříčky.exe
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky\Úhlopříčky\bin\Debug\Úhlopříčky.pdb
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky\Úhlopříčky\obj\Debug\Úhlopříčky.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky\Úhlopříčky\obj\Debug\Úhlopříčky.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky\Úhlopříčky\obj\Debug\Úhlopříčky.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky\Úhlopříčky\obj\Debug\Úhlopříčky.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky\Úhlopříčky\obj\Debug\Úhlopříčky.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky\Úhlopříčky\obj\Debug\Úhlopříčky.exe
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky\Úhlopříčky\obj\Debug\Úhlopříčky.pdb

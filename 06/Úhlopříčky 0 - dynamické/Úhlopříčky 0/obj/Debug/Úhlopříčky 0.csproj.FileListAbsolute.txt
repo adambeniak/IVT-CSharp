@@ -1,0 +1,40 @@
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0\Úhlopříčky 0\bin\Debug\Úhlopříčky 0.exe.config
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0\Úhlopříčky 0\bin\Debug\Úhlopříčky 0.exe
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0\Úhlopříčky 0\bin\Debug\Úhlopříčky 0.pdb
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0\Úhlopříčky 0\obj\Debug\Úhlopříčky_0.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0\Úhlopříčky 0\obj\Debug\Úhlopříčky_0.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.exe
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.pdb
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - pevné - kopie\Úhlopříčky 0\bin\Debug\Úhlopříčky 0.exe.config
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - pevné - kopie\Úhlopříčky 0\bin\Debug\Úhlopříčky 0.exe
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - pevné - kopie\Úhlopříčky 0\bin\Debug\Úhlopříčky 0.pdb
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - pevné - kopie\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - pevné - kopie\Úhlopříčky 0\obj\Debug\Úhlopříčky_0.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - pevné - kopie\Úhlopříčky 0\obj\Debug\Úhlopříčky_0.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - pevné - kopie\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - pevné - kopie\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - pevné - kopie\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.exe
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - pevné - kopie\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.pdb
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické\Úhlopříčky 0\bin\Debug\Úhlopříčky 0.exe.config
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické\Úhlopříčky 0\bin\Debug\Úhlopříčky 0.exe
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické\Úhlopříčky 0\bin\Debug\Úhlopříčky 0.pdb
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické\Úhlopříčky 0\obj\Debug\Úhlopříčky_0.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické\Úhlopříčky 0\obj\Debug\Úhlopříčky_0.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.exe
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.pdb
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické - kopie\Úhlopříčky 0\bin\Debug\Úhlopříčky 0.exe.config
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické - kopie\Úhlopříčky 0\bin\Debug\Úhlopříčky 0.exe
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické - kopie\Úhlopříčky 0\bin\Debug\Úhlopříčky 0.pdb
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické - kopie\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické - kopie\Úhlopříčky 0\obj\Debug\Úhlopříčky_0.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické - kopie\Úhlopříčky 0\obj\Debug\Úhlopříčky_0.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické - kopie\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické - kopie\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické - kopie\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.exe
+G:\2023-2024\Ivz 7.P\Programování\06\Úhlopříčky 0 - statické - kopie\Úhlopříčky 0\obj\Debug\Úhlopříčky 0.pdb

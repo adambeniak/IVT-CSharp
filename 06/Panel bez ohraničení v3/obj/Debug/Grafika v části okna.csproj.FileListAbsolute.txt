@@ -1,0 +1,55 @@
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\3 Grafika v části okna\bin\Debug\Grafika v části okna.exe
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\3 Grafika v části okna\bin\Debug\Grafika v části okna.pdb
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\3 Grafika v části okna\obj\Debug\ResolveAssemblyReference.cache
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\3 Grafika v části okna\obj\Debug\Grafika_v_části_okna.oknoProgramu.resources
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\3 Grafika v části okna\obj\Debug\Grafika_v_části_okna.Properties.Resources.resources
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\3 Grafika v části okna\obj\Debug\GenerateResource.read.1.tlog
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\3 Grafika v části okna\obj\Debug\GenerateResource.write.1.tlog
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\3 Grafika v části okna\obj\Debug\Grafika v části okna.exe
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\3 Grafika v části okna\obj\Debug\Grafika v části okna.pdb
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel bez ohraničení\bin\Debug\Grafika v části okna.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel bez ohraničení\bin\Debug\Grafika v části okna.pdb
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel bez ohraničení\obj\Debug\Grafika v části okna.csproj.AssemblyReference.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel bez ohraničení\obj\Debug\Grafika_v_části_okna.oknoProgramu.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel bez ohraničení\obj\Debug\Grafika_v_části_okna.Properties.Resources.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel bez ohraničení\obj\Debug\Grafika v části okna.csproj.GenerateResource.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel bez ohraničení\obj\Debug\Grafika v části okna.csproj.CoreCompileInputs.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel bez ohraničení\obj\Debug\Grafika v části okna.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel bez ohraničení\obj\Debug\Grafika v části okna.pdb
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení\bin\Debug\Grafika v části okna.exe
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení\bin\Debug\Grafika v části okna.pdb
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení\obj\Debug\Grafika v části okna.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení\obj\Debug\Grafika_v_části_okna.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení\obj\Debug\Grafika_v_části_okna.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení\obj\Debug\Grafika v části okna.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení\obj\Debug\Grafika v části okna.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení\obj\Debug\Grafika v části okna.exe
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení\obj\Debug\Grafika v části okna.pdb
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení - kopie\bin\Debug\Grafika v části okna.exe
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení - kopie\bin\Debug\Grafika v části okna.pdb
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení - kopie\obj\Debug\Grafika v části okna.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení - kopie\obj\Debug\Grafika_v_části_okna.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení - kopie\obj\Debug\Grafika_v_části_okna.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení - kopie\obj\Debug\Grafika v části okna.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení - kopie\obj\Debug\Grafika v části okna.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení - kopie\obj\Debug\Grafika v části okna.exe
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení - kopie\obj\Debug\Grafika v části okna.pdb
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení v3\bin\Debug\Grafika v části okna.exe
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení v3\bin\Debug\Grafika v části okna.pdb
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení v3\obj\Debug\Grafika v části okna.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení v3\obj\Debug\Grafika_v_části_okna.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení v3\obj\Debug\Grafika_v_části_okna.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení v3\obj\Debug\Grafika v části okna.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení v3\obj\Debug\Grafika v části okna.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení v3\obj\Debug\Grafika v části okna.exe
+G:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení v3\obj\Debug\Grafika v části okna.pdb
+E:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení v3\bin\Debug\Grafika v části okna.exe.config
+E:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení v3\bin\Debug\Grafika v části okna.exe
+E:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení v3\bin\Debug\Grafika v části okna.pdb
+E:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení v3\obj\Debug\Grafika v části okna.csproj.AssemblyReference.cache
+E:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení v3\obj\Debug\Grafika_v_části_okna.oknoProgramu.resources
+E:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení v3\obj\Debug\Grafika_v_části_okna.Properties.Resources.resources
+E:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení v3\obj\Debug\Grafika v části okna.csproj.GenerateResource.cache
+E:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení v3\obj\Debug\Grafika v části okna.csproj.CoreCompileInputs.cache
+E:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení v3\obj\Debug\Grafika v části okna.exe
+E:\2023-2024\Ivz 7.P\Programování\06\Panel bez ohraničení v3\obj\Debug\Grafika v části okna.pdb

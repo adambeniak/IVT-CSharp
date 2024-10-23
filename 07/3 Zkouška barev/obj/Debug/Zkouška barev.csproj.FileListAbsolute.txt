@@ -1,0 +1,9 @@
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\3 Zkouška barev\bin\Debug\Zkouška barev.exe
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\3 Zkouška barev\bin\Debug\Zkouška barev.pdb
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\3 Zkouška barev\obj\Debug\ResolveAssemblyReference.cache
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\3 Zkouška barev\obj\Debug\Zkouška_barev.oknoProgramu.resources
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\3 Zkouška barev\obj\Debug\Zkouška_barev.Properties.Resources.resources
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\3 Zkouška barev\obj\Debug\GenerateResource.read.1.tlog
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\3 Zkouška barev\obj\Debug\GenerateResource.write.1.tlog
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\3 Zkouška barev\obj\Debug\Zkouška barev.exe
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\3 Zkouška barev\obj\Debug\Zkouška barev.pdb

@@ -1,0 +1,20 @@
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Domeček\Domeček\bin\Debug\Domeček.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Domeček\Domeček\bin\Debug\Domeček.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Domeček\Domeček\bin\Debug\Domeček.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Domeček\Domeček\obj\Debug\Domeček.csproj.AssemblyReference.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Domeček\Domeček\obj\Debug\Domeček.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Domeček\Domeček\obj\Debug\Domeček.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Domeček\Domeček\obj\Debug\Domeček.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Domeček\Domeček\obj\Debug\Domeček.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Domeček\Domeček\obj\Debug\Domeček.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Domeček\Domeček\obj\Debug\Domeček.pdb
+H:\2023-2024\Ivz 7.P\Programování\06\Jedno pero - Domeček\Domeček\bin\Debug\Domeček.exe.config
+H:\2023-2024\Ivz 7.P\Programování\06\Jedno pero - Domeček\Domeček\bin\Debug\Domeček.exe
+H:\2023-2024\Ivz 7.P\Programování\06\Jedno pero - Domeček\Domeček\bin\Debug\Domeček.pdb
+H:\2023-2024\Ivz 7.P\Programování\06\Jedno pero - Domeček\Domeček\obj\Debug\Domeček.csproj.AssemblyReference.cache
+H:\2023-2024\Ivz 7.P\Programování\06\Jedno pero - Domeček\Domeček\obj\Debug\Domeček.oknoProgramu.resources
+H:\2023-2024\Ivz 7.P\Programování\06\Jedno pero - Domeček\Domeček\obj\Debug\Domeček.Properties.Resources.resources
+H:\2023-2024\Ivz 7.P\Programování\06\Jedno pero - Domeček\Domeček\obj\Debug\Domeček.csproj.GenerateResource.cache
+H:\2023-2024\Ivz 7.P\Programování\06\Jedno pero - Domeček\Domeček\obj\Debug\Domeček.csproj.CoreCompileInputs.cache
+H:\2023-2024\Ivz 7.P\Programování\06\Jedno pero - Domeček\Domeček\obj\Debug\Domeček.exe
+H:\2023-2024\Ivz 7.P\Programování\06\Jedno pero - Domeček\Domeček\obj\Debug\Domeček.pdb

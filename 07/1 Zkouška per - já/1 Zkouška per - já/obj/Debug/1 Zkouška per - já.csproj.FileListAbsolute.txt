@@ -1,0 +1,10 @@
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\1 Zkouška per - já\1 Zkouška per - já\bin\Debug\1 Zkouška per - já.exe.config
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\1 Zkouška per - já\1 Zkouška per - já\bin\Debug\1 Zkouška per - já.exe
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\1 Zkouška per - já\1 Zkouška per - já\bin\Debug\1 Zkouška per - já.pdb
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\1 Zkouška per - já\1 Zkouška per - já\obj\Debug\1 Zkouška per - já.csproj.AssemblyReference.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\1 Zkouška per - já\1 Zkouška per - já\obj\Debug\_1_Zkouška_per___já.oknoProgramu.resources
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\1 Zkouška per - já\1 Zkouška per - já\obj\Debug\_1_Zkouška_per___já.Properties.Resources.resources
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\1 Zkouška per - já\1 Zkouška per - já\obj\Debug\1 Zkouška per - já.csproj.GenerateResource.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\1 Zkouška per - já\1 Zkouška per - já\obj\Debug\1 Zkouška per - já.csproj.CoreCompileInputs.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\1 Zkouška per - já\1 Zkouška per - já\obj\Debug\1 Zkouška per - já.exe
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\1 Zkouška per - já\1 Zkouška per - já\obj\Debug\1 Zkouška per - já.pdb

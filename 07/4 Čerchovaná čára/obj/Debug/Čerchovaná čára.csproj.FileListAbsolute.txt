@@ -1,0 +1,11 @@
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\4 Čerchovaná čára\bin\Debug\Čerchovaná čára.exe
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\4 Čerchovaná čára\bin\Debug\Čerchovaná čára.pdb
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\4 Čerchovaná čára\obj\Debug\ResolveAssemblyReference.cache
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\4 Čerchovaná čára\obj\Debug\Čerchovaná_čára.oknoProgramu.resources
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\4 Čerchovaná čára\obj\Debug\Čerchovaná_čára.Properties.Resources.resources
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\4 Čerchovaná čára\obj\Debug\GenerateResource.read.1.tlog
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\4 Čerchovaná čára\obj\Debug\GenerateResource.write.1.tlog
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\4 Čerchovaná čára\obj\Debug\Čerchovaná čára.exe
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\4 Čerchovaná čára\obj\Debug\Čerchovaná čára.pdb
+\\lister\users\pazdera.m\Plocha\Programování\ucebnice-pro-zacatecniky-2010\Kapitola 07\4 Čerchovaná čára\obj\Debug\Čerchovaná čára.exe
+\\lister\users\pazdera.m\Plocha\Programování\ucebnice-pro-zacatecniky-2010\Kapitola 07\4 Čerchovaná čára\obj\Debug\Čerchovaná čára.pdb

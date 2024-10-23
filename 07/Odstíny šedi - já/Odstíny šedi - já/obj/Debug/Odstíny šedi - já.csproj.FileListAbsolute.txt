@@ -1,0 +1,10 @@
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Odstíny šedi - já\Odstíny šedi - já\obj\Debug\Odstíny šedi - já.csproj.AssemblyReference.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Odstíny šedi - já\Odstíny šedi - já\obj\Debug\Odstíny_šedi___já.oknoProgramu.resources
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Odstíny šedi - já\Odstíny šedi - já\obj\Debug\Odstíny_šedi___já.Properties.Resources.resources
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Odstíny šedi - já\Odstíny šedi - já\obj\Debug\Odstíny šedi - já.csproj.GenerateResource.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Odstíny šedi - já\Odstíny šedi - já\obj\Debug\Odstíny šedi - já.csproj.CoreCompileInputs.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Odstíny šedi - já\Odstíny šedi - já\bin\Debug\Odstíny šedi - já.exe.config
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Odstíny šedi - já\Odstíny šedi - já\bin\Debug\Odstíny šedi - já.exe
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Odstíny šedi - já\Odstíny šedi - já\bin\Debug\Odstíny šedi - já.pdb
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Odstíny šedi - já\Odstíny šedi - já\obj\Debug\Odstíny šedi - já.exe
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Odstíny šedi - já\Odstíny šedi - já\obj\Debug\Odstíny šedi - já.pdb

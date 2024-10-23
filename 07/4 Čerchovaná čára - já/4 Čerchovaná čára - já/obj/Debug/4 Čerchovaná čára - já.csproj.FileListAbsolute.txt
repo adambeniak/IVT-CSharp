@@ -1,0 +1,20 @@
+C:\Users\Admin\source\repos\4 Čerchovaná čára - já\4 Čerchovaná čára - já\bin\Debug\4 Čerchovaná čára - já.exe.config
+C:\Users\Admin\source\repos\4 Čerchovaná čára - já\4 Čerchovaná čára - já\bin\Debug\4 Čerchovaná čára - já.exe
+C:\Users\Admin\source\repos\4 Čerchovaná čára - já\4 Čerchovaná čára - já\bin\Debug\4 Čerchovaná čára - já.pdb
+C:\Users\Admin\source\repos\4 Čerchovaná čára - já\4 Čerchovaná čára - já\obj\Debug\4 Čerchovaná čára - já.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\4 Čerchovaná čára - já\4 Čerchovaná čára - já\obj\Debug\_4_Čerchovaná_čára___já.oknoProgramu.resources
+C:\Users\Admin\source\repos\4 Čerchovaná čára - já\4 Čerchovaná čára - já\obj\Debug\_4_Čerchovaná_čára___já.Properties.Resources.resources
+C:\Users\Admin\source\repos\4 Čerchovaná čára - já\4 Čerchovaná čára - já\obj\Debug\4 Čerchovaná čára - já.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\4 Čerchovaná čára - já\4 Čerchovaná čára - já\obj\Debug\4 Čerchovaná čára - já.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\4 Čerchovaná čára - já\4 Čerchovaná čára - já\obj\Debug\4 Čerchovaná čára - já.exe
+C:\Users\Admin\source\repos\4 Čerchovaná čára - já\4 Čerchovaná čára - já\obj\Debug\4 Čerchovaná čára - já.pdb
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\4 Čerchovaná čára - já\4 Čerchovaná čára - já\bin\Debug\4 Čerchovaná čára - já.exe.config
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\4 Čerchovaná čára - já\4 Čerchovaná čára - já\bin\Debug\4 Čerchovaná čára - já.exe
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\4 Čerchovaná čára - já\4 Čerchovaná čára - já\bin\Debug\4 Čerchovaná čára - já.pdb
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\4 Čerchovaná čára - já\4 Čerchovaná čára - já\obj\Debug\4 Čerchovaná čára - já.csproj.AssemblyReference.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\4 Čerchovaná čára - já\4 Čerchovaná čára - já\obj\Debug\_4_Čerchovaná_čára___já.oknoProgramu.resources
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\4 Čerchovaná čára - já\4 Čerchovaná čára - já\obj\Debug\_4_Čerchovaná_čára___já.Properties.Resources.resources
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\4 Čerchovaná čára - já\4 Čerchovaná čára - já\obj\Debug\4 Čerchovaná čára - já.csproj.GenerateResource.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\4 Čerchovaná čára - já\4 Čerchovaná čára - já\obj\Debug\4 Čerchovaná čára - já.csproj.CoreCompileInputs.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\4 Čerchovaná čára - já\4 Čerchovaná čára - já\obj\Debug\4 Čerchovaná čára - já.exe
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\4 Čerchovaná čára - já\4 Čerchovaná čára - já\obj\Debug\4 Čerchovaná čára - já.pdb

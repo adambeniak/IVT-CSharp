@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varianty okna se zprávou", "Varianty okna se zprávou\Varianty okna se zprávou.csproj", "{AC93593D-856E-417E-B1D1-8A1204BD233A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC93593D-856E-417E-B1D1-8A1204BD233A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC93593D-856E-417E-B1D1-8A1204BD233A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC93593D-856E-417E-B1D1-8A1204BD233A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC93593D-856E-417E-B1D1-8A1204BD233A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFEB9039-035F-4405-9E5E-EE7D5EE32DAA}
+	EndGlobalSection
+EndGlobal

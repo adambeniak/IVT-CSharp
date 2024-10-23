@@ -1,0 +1,20 @@
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\bin\Debug\ReadOnly versus Enabled.exe.config
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\bin\Debug\ReadOnly versus Enabled.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\bin\Debug\ReadOnly versus Enabled.pdb
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\obj\Debug\ReadOnly versus Enabled.csproj.AssemblyReference.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\obj\Debug\ReadOnly_versus_Enabled.oknoProgramu.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\obj\Debug\ReadOnly_versus_Enabled.Properties.Resources.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\obj\Debug\ReadOnly versus Enabled.csproj.GenerateResource.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\obj\Debug\ReadOnly versus Enabled.csproj.CoreCompileInputs.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\obj\Debug\ReadOnly versus Enabled.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\obj\Debug\ReadOnly versus Enabled.pdb
+E:\2023-2024\Ivz 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\bin\Debug\ReadOnly versus Enabled.exe.config
+E:\2023-2024\Ivz 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\bin\Debug\ReadOnly versus Enabled.exe
+E:\2023-2024\Ivz 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\bin\Debug\ReadOnly versus Enabled.pdb
+E:\2023-2024\Ivz 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\obj\Debug\ReadOnly versus Enabled.csproj.AssemblyReference.cache
+E:\2023-2024\Ivz 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\obj\Debug\ReadOnly_versus_Enabled.oknoProgramu.resources
+E:\2023-2024\Ivz 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\obj\Debug\ReadOnly_versus_Enabled.Properties.Resources.resources
+E:\2023-2024\Ivz 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\obj\Debug\ReadOnly versus Enabled.csproj.GenerateResource.cache
+E:\2023-2024\Ivz 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\obj\Debug\ReadOnly versus Enabled.csproj.CoreCompileInputs.cache
+E:\2023-2024\Ivz 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\obj\Debug\ReadOnly versus Enabled.exe
+E:\2023-2024\Ivz 7.P\Programování\04\ReadOnly versus Enabled\ReadOnly versus Enabled\obj\Debug\ReadOnly versus Enabled.pdb

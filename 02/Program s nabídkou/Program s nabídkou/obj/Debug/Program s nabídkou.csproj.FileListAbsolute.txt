@@ -1,0 +1,20 @@
+G:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\bin\Debug\Program s nabídkou.exe.config
+G:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\bin\Debug\Program s nabídkou.exe
+G:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\bin\Debug\Program s nabídkou.pdb
+G:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\obj\Debug\Program s nabídkou.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\obj\Debug\Program_s_nabídkou.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\obj\Debug\Program_s_nabídkou.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\obj\Debug\Program s nabídkou.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\obj\Debug\Program s nabídkou.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\obj\Debug\Program s nabídkou.exe
+G:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\obj\Debug\Program s nabídkou.pdb
+E:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\bin\Debug\Program s nabídkou.exe.config
+E:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\bin\Debug\Program s nabídkou.exe
+E:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\bin\Debug\Program s nabídkou.pdb
+E:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\obj\Debug\Program s nabídkou.csproj.AssemblyReference.cache
+E:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\obj\Debug\Program_s_nabídkou.oknoProgramu.resources
+E:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\obj\Debug\Program_s_nabídkou.Properties.Resources.resources
+E:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\obj\Debug\Program s nabídkou.csproj.GenerateResource.cache
+E:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\obj\Debug\Program s nabídkou.csproj.CoreCompileInputs.cache
+E:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\obj\Debug\Program s nabídkou.exe
+E:\2023-2024\Ivz 7.P\Programování\02\Program s nabídkou\Program s nabídkou\obj\Debug\Program s nabídkou.pdb

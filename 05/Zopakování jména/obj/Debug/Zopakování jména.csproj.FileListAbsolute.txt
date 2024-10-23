@@ -1,0 +1,37 @@
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 05\Zopakování jména\bin\Debug\Zopakování jména.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 05\Zopakování jména\bin\Debug\Zopakování jména.pdb
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 05\Zopakování jména\obj\Debug\ResolveAssemblyReference.cache
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 05\Zopakování jména\obj\Debug\Zopakování_jména.oknoProgramu.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 05\Zopakování jména\obj\Debug\Zopakování_jména.Properties.Resources.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 05\Zopakování jména\obj\Debug\GenerateResource.read.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 05\Zopakování jména\obj\Debug\GenerateResource.write.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 05\Zopakování jména\obj\Debug\Zopakování jména.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 05\Zopakování jména\obj\Debug\Zopakování jména.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Zopakování jména\bin\Debug\Zopakování jména.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Zopakování jména\bin\Debug\Zopakování jména.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování jména.csproj.AssemblyReference.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování_jména.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování_jména.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování jména.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování jména.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování jména.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování jména.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Zopakování jména\bin\Debug\Zopakování jména.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Zopakování jména\bin\Debug\Zopakování jména.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování jména.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování_jména.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování_jména.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování jména.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování jména.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování jména.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování jména.pdb
+E:\2023-2024\Ivz 7.P\Programování\05\Zopakování jména\bin\Debug\Zopakování jména.exe.config
+E:\2023-2024\Ivz 7.P\Programování\05\Zopakování jména\bin\Debug\Zopakování jména.exe
+E:\2023-2024\Ivz 7.P\Programování\05\Zopakování jména\bin\Debug\Zopakování jména.pdb
+E:\2023-2024\Ivz 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování jména.csproj.AssemblyReference.cache
+E:\2023-2024\Ivz 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování_jména.oknoProgramu.resources
+E:\2023-2024\Ivz 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování_jména.Properties.Resources.resources
+E:\2023-2024\Ivz 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování jména.csproj.GenerateResource.cache
+E:\2023-2024\Ivz 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování jména.csproj.CoreCompileInputs.cache
+E:\2023-2024\Ivz 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování jména.exe
+E:\2023-2024\Ivz 7.P\Programování\05\Zopakování jména\obj\Debug\Zopakování jména.pdb

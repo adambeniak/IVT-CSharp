@@ -1,0 +1,10 @@
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Čarové obrazce\Čarové obrazce\bin\Debug\Čarové obrazce.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Čarové obrazce\Čarové obrazce\bin\Debug\Čarové obrazce.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Čarové obrazce\Čarové obrazce\bin\Debug\Čarové obrazce.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Čarové obrazce\Čarové obrazce\obj\Debug\Čarové obrazce.csproj.AssemblyReference.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Čarové obrazce\Čarové obrazce\obj\Debug\Čarové_obrazce.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Čarové obrazce\Čarové obrazce\obj\Debug\Čarové_obrazce.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Čarové obrazce\Čarové obrazce\obj\Debug\Čarové obrazce.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Čarové obrazce\Čarové obrazce\obj\Debug\Čarové obrazce.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Čarové obrazce\Čarové obrazce\obj\Debug\Čarové obrazce.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Čarové obrazce\Čarové obrazce\obj\Debug\Čarové obrazce.pdb

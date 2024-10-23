@@ -1,0 +1,20 @@
+T:\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\bin\Debug\Program s textovým polem.exe.config
+T:\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\bin\Debug\Program s textovým polem.exe
+T:\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\bin\Debug\Program s textovým polem.pdb
+T:\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\obj\Debug\Program s textovým polem.csproj.AssemblyReference.cache
+T:\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\obj\Debug\Program_s_textovým_polem.oknoProgramu.resources
+T:\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\obj\Debug\Program_s_textovým_polem.Properties.Resources.resources
+T:\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\obj\Debug\Program s textovým polem.csproj.GenerateResource.cache
+T:\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\obj\Debug\Program s textovým polem.csproj.CoreCompileInputs.cache
+T:\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\obj\Debug\Program s textovým polem.exe
+T:\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\obj\Debug\Program s textovým polem.pdb
+G:\2023-2024\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\bin\Debug\Program s textovým polem.exe.config
+G:\2023-2024\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\bin\Debug\Program s textovým polem.exe
+G:\2023-2024\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\bin\Debug\Program s textovým polem.pdb
+G:\2023-2024\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\obj\Debug\Program s textovým polem.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\obj\Debug\Program_s_textovým_polem.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\obj\Debug\Program_s_textovým_polem.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\obj\Debug\Program s textovým polem.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\obj\Debug\Program s textovým polem.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\obj\Debug\Program s textovým polem.exe
+G:\2023-2024\Ivz 7.P\Programování\02\Program s textovým polem\Program s textovým polem\obj\Debug\Program s textovým polem.pdb

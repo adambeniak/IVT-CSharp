@@ -1,0 +1,20 @@
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Báječný soused\Báječný soused\bin\Debug\Báječný soused.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Báječný soused\Báječný soused\bin\Debug\Báječný soused.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Báječný soused\Báječný soused\bin\Debug\Báječný soused.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Báječný soused\Báječný soused\obj\Debug\Báječný soused.csproj.AssemblyReference.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Báječný soused\Báječný soused\obj\Debug\Báječný_soused.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Báječný soused\Báječný soused\obj\Debug\Báječný_soused.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Báječný soused\Báječný soused\obj\Debug\Báječný soused.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Báječný soused\Báječný soused\obj\Debug\Báječný soused.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Báječný soused\Báječný soused\obj\Debug\Báječný soused.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Báječný soused\Báječný soused\obj\Debug\Báječný soused.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Báječný soused\Báječný soused\bin\Debug\Báječný soused.exe.config
+G:\2023-2024\Ivz 7.P\Programování\05\Báječný soused\Báječný soused\bin\Debug\Báječný soused.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Báječný soused\Báječný soused\bin\Debug\Báječný soused.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Báječný soused\Báječný soused\obj\Debug\Báječný soused.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Báječný soused\Báječný soused\obj\Debug\Báječný_soused.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Báječný soused\Báječný soused\obj\Debug\Báječný_soused.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Báječný soused\Báječný soused\obj\Debug\Báječný soused.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Báječný soused\Báječný soused\obj\Debug\Báječný soused.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Báječný soused\Báječný soused\obj\Debug\Báječný soused.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Báječný soused\Báječný soused\obj\Debug\Báječný soused.pdb

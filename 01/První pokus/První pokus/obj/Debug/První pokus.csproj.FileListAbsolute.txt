@@ -1,0 +1,10 @@
+T:\Ivz 7.P\Programování\01\První pokus\První pokus\bin\Debug\První pokus.exe.config
+T:\Ivz 7.P\Programování\01\První pokus\První pokus\bin\Debug\První pokus.exe
+T:\Ivz 7.P\Programování\01\První pokus\První pokus\bin\Debug\První pokus.pdb
+T:\Ivz 7.P\Programování\01\První pokus\První pokus\obj\Debug\První pokus.csproj.AssemblyReference.cache
+T:\Ivz 7.P\Programování\01\První pokus\První pokus\obj\Debug\První_pokus.Form1.resources
+T:\Ivz 7.P\Programování\01\První pokus\První pokus\obj\Debug\První_pokus.Properties.Resources.resources
+T:\Ivz 7.P\Programování\01\První pokus\První pokus\obj\Debug\První pokus.csproj.GenerateResource.cache
+T:\Ivz 7.P\Programování\01\První pokus\První pokus\obj\Debug\První pokus.csproj.CoreCompileInputs.cache
+T:\Ivz 7.P\Programování\01\První pokus\První pokus\obj\Debug\První pokus.exe
+T:\Ivz 7.P\Programování\01\První pokus\První pokus\obj\Debug\První pokus.pdb

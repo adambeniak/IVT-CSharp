@@ -1,0 +1,20 @@
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\bin\Debug\Jiné zaškrtávání.exe.config
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\bin\Debug\Jiné zaškrtávání.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\bin\Debug\Jiné zaškrtávání.pdb
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\obj\Debug\Jiné zaškrtávání.csproj.AssemblyReference.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\obj\Debug\Jiné_zaškrtávání.oknoProgramu.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\obj\Debug\Jiné_zaškrtávání.Properties.Resources.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\obj\Debug\Jiné zaškrtávání.csproj.GenerateResource.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\obj\Debug\Jiné zaškrtávání.csproj.CoreCompileInputs.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\obj\Debug\Jiné zaškrtávání.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\obj\Debug\Jiné zaškrtávání.pdb
+E:\2023-2024\Ivz 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\bin\Debug\Jiné zaškrtávání.exe.config
+E:\2023-2024\Ivz 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\bin\Debug\Jiné zaškrtávání.exe
+E:\2023-2024\Ivz 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\bin\Debug\Jiné zaškrtávání.pdb
+E:\2023-2024\Ivz 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\obj\Debug\Jiné zaškrtávání.csproj.AssemblyReference.cache
+E:\2023-2024\Ivz 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\obj\Debug\Jiné_zaškrtávání.oknoProgramu.resources
+E:\2023-2024\Ivz 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\obj\Debug\Jiné_zaškrtávání.Properties.Resources.resources
+E:\2023-2024\Ivz 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\obj\Debug\Jiné zaškrtávání.csproj.GenerateResource.cache
+E:\2023-2024\Ivz 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\obj\Debug\Jiné zaškrtávání.csproj.CoreCompileInputs.cache
+E:\2023-2024\Ivz 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\obj\Debug\Jiné zaškrtávání.exe
+E:\2023-2024\Ivz 7.P\Programování\04\Jiné zaškrtávání\Jiné zaškrtávání\obj\Debug\Jiné zaškrtávání.pdb

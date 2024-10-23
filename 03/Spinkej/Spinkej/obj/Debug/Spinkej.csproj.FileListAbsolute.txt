@@ -1,0 +1,20 @@
+G:\2021-2022\Ivz 3.A 7.P\Programování\03\Spinkej\Spinkej\bin\Debug\Spinkej.exe.config
+G:\2021-2022\Ivz 3.A 7.P\Programování\03\Spinkej\Spinkej\bin\Debug\Spinkej.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\03\Spinkej\Spinkej\bin\Debug\Spinkej.pdb
+G:\2021-2022\Ivz 3.A 7.P\Programování\03\Spinkej\Spinkej\obj\Debug\Spinkej.csproj.AssemblyReference.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\03\Spinkej\Spinkej\obj\Debug\Spinkej.oknoProgramu.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\03\Spinkej\Spinkej\obj\Debug\Spinkej.Properties.Resources.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\03\Spinkej\Spinkej\obj\Debug\Spinkej.csproj.GenerateResource.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\03\Spinkej\Spinkej\obj\Debug\Spinkej.csproj.CoreCompileInputs.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\03\Spinkej\Spinkej\obj\Debug\Spinkej.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\03\Spinkej\Spinkej\obj\Debug\Spinkej.pdb
+G:\2023-2024\Ivz 7.P\Programování\03\Spinkej\Spinkej\bin\Debug\Spinkej.exe.config
+G:\2023-2024\Ivz 7.P\Programování\03\Spinkej\Spinkej\bin\Debug\Spinkej.exe
+G:\2023-2024\Ivz 7.P\Programování\03\Spinkej\Spinkej\bin\Debug\Spinkej.pdb
+G:\2023-2024\Ivz 7.P\Programování\03\Spinkej\Spinkej\obj\Debug\Spinkej.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\03\Spinkej\Spinkej\obj\Debug\Spinkej.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\03\Spinkej\Spinkej\obj\Debug\Spinkej.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\03\Spinkej\Spinkej\obj\Debug\Spinkej.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\03\Spinkej\Spinkej\obj\Debug\Spinkej.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\03\Spinkej\Spinkej\obj\Debug\Spinkej.exe
+G:\2023-2024\Ivz 7.P\Programování\03\Spinkej\Spinkej\obj\Debug\Spinkej.pdb

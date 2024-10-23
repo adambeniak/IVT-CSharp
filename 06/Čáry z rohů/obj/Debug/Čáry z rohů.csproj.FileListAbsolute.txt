@@ -1,0 +1,20 @@
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Čáry z rohů\bin\Debug\Čáry z rohů.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Čáry z rohů\bin\Debug\Čáry z rohů.pdb
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Čáry z rohů\obj\Debug\ResolveAssemblyReference.cache
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Čáry z rohů\obj\Debug\Čáry_z_rohů.oknoProgramu.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Čáry z rohů\obj\Debug\Čáry_z_rohů.Properties.Resources.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Čáry z rohů\obj\Debug\GenerateResource.read.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Čáry z rohů\obj\Debug\GenerateResource.write.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Čáry z rohů\obj\Debug\Čáry z rohů.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Čáry z rohů\obj\Debug\Čáry z rohů.pdb
+\\lister\users\pazdera.m\Plocha\Programování\sbirka-pro-zacatecniky-2010\Kapitola 06\Čáry z rohů\obj\Debug\Čáry z rohů.exe
+\\lister\users\pazdera.m\Plocha\Programování\sbirka-pro-zacatecniky-2010\Kapitola 06\Čáry z rohů\obj\Debug\Čáry z rohů.pdb
+G:\2023-2024\Ivz 7.P\Programování\06\Čáry z rohů\bin\Debug\Čáry z rohů.exe
+G:\2023-2024\Ivz 7.P\Programování\06\Čáry z rohů\bin\Debug\Čáry z rohů.pdb
+G:\2023-2024\Ivz 7.P\Programování\06\Čáry z rohů\obj\Debug\Čáry z rohů.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Čáry z rohů\obj\Debug\Čáry_z_rohů.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\06\Čáry z rohů\obj\Debug\Čáry_z_rohů.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\06\Čáry z rohů\obj\Debug\Čáry z rohů.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Čáry z rohů\obj\Debug\Čáry z rohů.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\06\Čáry z rohů\obj\Debug\Čáry z rohů.exe
+G:\2023-2024\Ivz 7.P\Programování\06\Čáry z rohů\obj\Debug\Čáry z rohů.pdb

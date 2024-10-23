@@ -1,0 +1,20 @@
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\bin\Debug\Panel pracující s oknem.exe.config
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\bin\Debug\Panel pracující s oknem.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\bin\Debug\Panel pracující s oknem.pdb
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\obj\Debug\Panel pracující s oknem.csproj.AssemblyReference.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\obj\Debug\Panel_pracující_s_oknem.oknoProgramu.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\obj\Debug\Panel_pracující_s_oknem.Properties.Resources.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\obj\Debug\Panel pracující s oknem.csproj.GenerateResource.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\obj\Debug\Panel pracující s oknem.csproj.CoreCompileInputs.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\obj\Debug\Panel pracující s oknem.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\obj\Debug\Panel pracující s oknem.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\bin\Debug\Panel pracující s oknem.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\bin\Debug\Panel pracující s oknem.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\bin\Debug\Panel pracující s oknem.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\obj\Debug\Panel pracující s oknem.csproj.AssemblyReference.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\obj\Debug\Panel_pracující_s_oknem.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\obj\Debug\Panel_pracující_s_oknem.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\obj\Debug\Panel pracující s oknem.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\obj\Debug\Panel pracující s oknem.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\obj\Debug\Panel pracující s oknem.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Panel pracující s oknem\Panel pracující s oknem\obj\Debug\Panel pracující s oknem.pdb

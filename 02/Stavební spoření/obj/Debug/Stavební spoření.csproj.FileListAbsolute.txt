@@ -1,0 +1,11 @@
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\Stavební spoření\bin\Debug\Stavební spoření.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\Stavební spoření\bin\Debug\Stavební spoření.pdb
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\Stavební spoření\obj\Debug\ResolveAssemblyReference.cache
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\Stavební spoření\obj\Debug\Stavební_spoření.oknoProgramu.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\Stavební spoření\obj\Debug\Stavební_spoření.Properties.Resources.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\Stavební spoření\obj\Debug\GenerateResource.read.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\Stavební spoření\obj\Debug\GenerateResource.write.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\Stavební spoření\obj\Debug\Stavební spoření.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\Stavební spoření\obj\Debug\Stavební spoření.pdb
+\\lister\users\pazdera.m\Plocha\Programování\sbirka-pro-zacatecniky-2010\Kapitola 02\Stavební spoření\obj\Debug\Stavební spoření.exe
+\\lister\users\pazdera.m\Plocha\Programování\sbirka-pro-zacatecniky-2010\Kapitola 02\Stavební spoření\obj\Debug\Stavební spoření.pdb

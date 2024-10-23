@@ -1,0 +1,20 @@
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\bin\Debug\Výměna stavu ano-ne.exe.config
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\bin\Debug\Výměna stavu ano-ne.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\bin\Debug\Výměna stavu ano-ne.pdb
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\obj\Debug\Výměna stavu ano-ne.csproj.AssemblyReference.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\obj\Debug\Výměna_stavu_ano_ne.oknoProgramu.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\obj\Debug\Výměna_stavu_ano_ne.Properties.Resources.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\obj\Debug\Výměna stavu ano-ne.csproj.GenerateResource.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\obj\Debug\Výměna stavu ano-ne.csproj.CoreCompileInputs.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\obj\Debug\Výměna stavu ano-ne.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\obj\Debug\Výměna stavu ano-ne.pdb
+E:\2023-2024\Ivz 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\bin\Debug\Výměna stavu ano-ne.exe.config
+E:\2023-2024\Ivz 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\bin\Debug\Výměna stavu ano-ne.exe
+E:\2023-2024\Ivz 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\bin\Debug\Výměna stavu ano-ne.pdb
+E:\2023-2024\Ivz 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\obj\Debug\Výměna stavu ano-ne.csproj.AssemblyReference.cache
+E:\2023-2024\Ivz 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\obj\Debug\Výměna_stavu_ano_ne.oknoProgramu.resources
+E:\2023-2024\Ivz 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\obj\Debug\Výměna_stavu_ano_ne.Properties.Resources.resources
+E:\2023-2024\Ivz 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\obj\Debug\Výměna stavu ano-ne.csproj.GenerateResource.cache
+E:\2023-2024\Ivz 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\obj\Debug\Výměna stavu ano-ne.csproj.CoreCompileInputs.cache
+E:\2023-2024\Ivz 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\obj\Debug\Výměna stavu ano-ne.exe
+E:\2023-2024\Ivz 7.P\Programování\05\Výměna stavu ano-ne\Výměna stavu ano-ne\obj\Debug\Výměna stavu ano-ne.pdb

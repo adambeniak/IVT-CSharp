@@ -1,0 +1,20 @@
+D:\2021-2022\Ivz 3.A 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\bin\Debug\Varianty okna se zprávou.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\bin\Debug\Varianty okna se zprávou.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\bin\Debug\Varianty okna se zprávou.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\obj\Debug\Varianty okna se zprávou.csproj.AssemblyReference.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\obj\Debug\Varianty_okna_se_zprávou.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\obj\Debug\Varianty_okna_se_zprávou.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\obj\Debug\Varianty okna se zprávou.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\obj\Debug\Varianty okna se zprávou.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\obj\Debug\Varianty okna se zprávou.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\obj\Debug\Varianty okna se zprávou.pdb
+G:\2023-2024\Ivz 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\bin\Debug\Varianty okna se zprávou.exe.config
+G:\2023-2024\Ivz 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\bin\Debug\Varianty okna se zprávou.exe
+G:\2023-2024\Ivz 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\bin\Debug\Varianty okna se zprávou.pdb
+G:\2023-2024\Ivz 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\obj\Debug\Varianty okna se zprávou.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\obj\Debug\Varianty_okna_se_zprávou.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\obj\Debug\Varianty_okna_se_zprávou.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\obj\Debug\Varianty okna se zprávou.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\obj\Debug\Varianty okna se zprávou.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\obj\Debug\Varianty okna se zprávou.exe
+G:\2023-2024\Ivz 7.P\Programování\03\Varianty okna se zprávou\Varianty okna se zprávou\obj\Debug\Varianty okna se zprávou.pdb

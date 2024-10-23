@@ -1,0 +1,10 @@
+G:\2023-2024\Ivz 7.P\Programování\02\Objednávka\Objednávka\bin\Debug\Objednávka.exe.config
+G:\2023-2024\Ivz 7.P\Programování\02\Objednávka\Objednávka\bin\Debug\Objednávka.exe
+G:\2023-2024\Ivz 7.P\Programování\02\Objednávka\Objednávka\bin\Debug\Objednávka.pdb
+G:\2023-2024\Ivz 7.P\Programování\02\Objednávka\Objednávka\obj\Debug\Objednávka.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Objednávka\Objednávka\obj\Debug\Objednávka.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\02\Objednávka\Objednávka\obj\Debug\Objednávka.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\02\Objednávka\Objednávka\obj\Debug\Objednávka.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Objednávka\Objednávka\obj\Debug\Objednávka.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Objednávka\Objednávka\obj\Debug\Objednávka.exe
+G:\2023-2024\Ivz 7.P\Programování\02\Objednávka\Objednávka\obj\Debug\Objednávka.pdb

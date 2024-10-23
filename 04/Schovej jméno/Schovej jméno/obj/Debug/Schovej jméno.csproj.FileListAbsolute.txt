@@ -1,0 +1,30 @@
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Schovej jméno\Schovej jméno\bin\Debug\Schovej jméno.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Schovej jméno\Schovej jméno\bin\Debug\Schovej jméno.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Schovej jméno\Schovej jméno\bin\Debug\Schovej jméno.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej jméno.csproj.AssemblyReference.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej_jméno.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej_jméno.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej jméno.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej jméno.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej jméno.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej jméno.pdb
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\bin\Debug\Schovej jméno.exe.config
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\bin\Debug\Schovej jméno.exe
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\bin\Debug\Schovej jméno.pdb
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej jméno.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej_jméno.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej_jméno.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej jméno.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej jméno.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej jméno.exe
+G:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej jméno.pdb
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\bin\Debug\Schovej jméno.exe.config
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\bin\Debug\Schovej jméno.exe
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\bin\Debug\Schovej jméno.pdb
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej jméno.csproj.AssemblyReference.cache
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej_jméno.oknoProgramu.resources
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej_jméno.Properties.Resources.resources
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej jméno.csproj.GenerateResource.cache
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej jméno.csproj.CoreCompileInputs.cache
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej jméno.exe
+E:\2023-2024\Ivz 7.P\Programování\04\Schovej jméno\Schovej jméno\obj\Debug\Schovej jméno.pdb

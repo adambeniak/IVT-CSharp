@@ -1,0 +1,19 @@
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\O deset víc\O deset víc\bin\Debug\O deset víc.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\O deset víc\O deset víc\bin\Debug\O deset víc.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\O deset víc\O deset víc\bin\Debug\O deset víc.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\O deset víc\O deset víc\obj\Debug\O_deset_víc.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\O deset víc\O deset víc\obj\Debug\O_deset_víc.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\O deset víc\O deset víc\obj\Debug\O deset víc.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\O deset víc\O deset víc\obj\Debug\O deset víc.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\O deset víc\O deset víc\obj\Debug\O deset víc.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\O deset víc\O deset víc\obj\Debug\O deset víc.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\O deset víc\O deset víc\bin\Debug\O deset víc.exe.config
+G:\2023-2024\Ivz 7.P\Programování\05\O deset víc\O deset víc\bin\Debug\O deset víc.exe
+G:\2023-2024\Ivz 7.P\Programování\05\O deset víc\O deset víc\bin\Debug\O deset víc.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\O deset víc\O deset víc\obj\Debug\O deset víc.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\05\O deset víc\O deset víc\obj\Debug\O_deset_víc.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\05\O deset víc\O deset víc\obj\Debug\O_deset_víc.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\05\O deset víc\O deset víc\obj\Debug\O deset víc.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\05\O deset víc\O deset víc\obj\Debug\O deset víc.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\05\O deset víc\O deset víc\obj\Debug\O deset víc.exe
+G:\2023-2024\Ivz 7.P\Programování\05\O deset víc\O deset víc\obj\Debug\O deset víc.pdb

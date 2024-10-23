@@ -1,0 +1,10 @@
+T:\Ivz 7.P\Programování\01\Můj druhý program\Můj druhý program\bin\Debug\Můj druhý program.exe.config
+T:\Ivz 7.P\Programování\01\Můj druhý program\Můj druhý program\bin\Debug\Můj druhý program.exe
+T:\Ivz 7.P\Programování\01\Můj druhý program\Můj druhý program\bin\Debug\Můj druhý program.pdb
+T:\Ivz 7.P\Programování\01\Můj druhý program\Můj druhý program\obj\Debug\Můj druhý program.csproj.AssemblyReference.cache
+T:\Ivz 7.P\Programování\01\Můj druhý program\Můj druhý program\obj\Debug\Můj_druhý_program.Form1.resources
+T:\Ivz 7.P\Programování\01\Můj druhý program\Můj druhý program\obj\Debug\Můj_druhý_program.Properties.Resources.resources
+T:\Ivz 7.P\Programování\01\Můj druhý program\Můj druhý program\obj\Debug\Můj druhý program.csproj.GenerateResource.cache
+T:\Ivz 7.P\Programování\01\Můj druhý program\Můj druhý program\obj\Debug\Můj druhý program.csproj.CoreCompileInputs.cache
+T:\Ivz 7.P\Programování\01\Můj druhý program\Můj druhý program\obj\Debug\Můj druhý program.exe
+T:\Ivz 7.P\Programování\01\Můj druhý program\Můj druhý program\obj\Debug\Můj druhý program.pdb

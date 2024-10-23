@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Ivz 7.P 8.P\\Programov\u00E1n\u00ED\\06\\Jedno pero - Dome\u010Dek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C25EF15-2FDF-4881-8328-4B122621337A}|Dome\u010Dek\\Dome\u010Dek.csproj|t:\\ivz 7.p 8.p\\programov\u00E1n\u00ED\\06\\jedno pero - dome\u010Dek\\dome\u010Dek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C25EF15-2FDF-4881-8328-4B122621337A}|Dome\u010Dek\\Dome\u010Dek.csproj|solutionrelative:dome\u010Dek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C25EF15-2FDF-4881-8328-4B122621337A}|Dome\u010Dek\\Dome\u010Dek.csproj|T:\\Ivz 7.P 8.P\\Programov\u00E1n\u00ED\\06\\Jedno pero - Dome\u010Dek\\dome\u010Dek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C25EF15-2FDF-4881-8328-4B122621337A}|Dome\u010Dek\\Dome\u010Dek.csproj|solutionrelative:dome\u010Dek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "T:\\Ivz 7.P 8.P\\Programov\u00E1n\u00ED\\06\\Jedno pero - Dome\u010Dek\\Dome\u010Dek\\Form1.cs",
+              "RelativeDocumentMoniker": "Dome\u010Dek\\Form1.cs",
+              "ToolTip": "T:\\Ivz 7.P 8.P\\Programov\u00E1n\u00ED\\06\\Jedno pero - Dome\u010Dek\\Dome\u010Dek\\Form1.cs",
+              "RelativeToolTip": "Dome\u010Dek\\Form1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:46:37.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [N\u00E1vrh]",
+              "DocumentMoniker": "T:\\Ivz 7.P 8.P\\Programov\u00E1n\u00ED\\06\\Jedno pero - Dome\u010Dek\\Dome\u010Dek\\Form1.cs",
+              "RelativeDocumentMoniker": "Dome\u010Dek\\Form1.cs",
+              "ToolTip": "E:\\2023-2024\\Ivz 7.P\\Programov\u00E1n\u00ED\\06\\Dome\u010Dek\\Dome\u010Dek\\Form1.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-11T09:46:37.498Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

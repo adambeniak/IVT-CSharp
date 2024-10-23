@@ -1,0 +1,11 @@
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Elipsa pracující s oknem\bin\Debug\Elipsa pracující s oknem.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Elipsa pracující s oknem\bin\Debug\Elipsa pracující s oknem.pdb
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Elipsa pracující s oknem\obj\Debug\ResolveAssemblyReference.cache
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Elipsa pracující s oknem\obj\Debug\Elipsa_pracující_s_oknem.oknoProgramu.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Elipsa pracující s oknem\obj\Debug\Elipsa_pracující_s_oknem.Properties.Resources.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Elipsa pracující s oknem\obj\Debug\GenerateResource.read.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Elipsa pracující s oknem\obj\Debug\GenerateResource.write.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Elipsa pracující s oknem\obj\Debug\Elipsa pracující s oknem.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Elipsa pracující s oknem\obj\Debug\Elipsa pracující s oknem.pdb
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Elipsa pracující s oknem\obj\Debug\Elipsa pracující s oknem.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Elipsa pracující s oknem\obj\Debug\Elipsa pracující s oknem.pdb

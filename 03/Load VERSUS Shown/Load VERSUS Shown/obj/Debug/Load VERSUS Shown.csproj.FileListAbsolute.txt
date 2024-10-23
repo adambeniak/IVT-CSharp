@@ -1,0 +1,19 @@
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Load VERSUS Shown\Load VERSUS Shown\bin\Debug\Load VERSUS Shown.exe.config
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Load VERSUS Shown\Load VERSUS Shown\bin\Debug\Load VERSUS Shown.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Load VERSUS Shown\Load VERSUS Shown\bin\Debug\Load VERSUS Shown.pdb
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Load VERSUS Shown\Load VERSUS Shown\obj\Debug\Load_VERSUS_Shown.oknoProgramu.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Load VERSUS Shown\Load VERSUS Shown\obj\Debug\Load_VERSUS_Shown.Properties.Resources.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Load VERSUS Shown\Load VERSUS Shown\obj\Debug\Load VERSUS Shown.csproj.GenerateResource.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Load VERSUS Shown\Load VERSUS Shown\obj\Debug\Load VERSUS Shown.csproj.CoreCompileInputs.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Load VERSUS Shown\Load VERSUS Shown\obj\Debug\Load VERSUS Shown.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Load VERSUS Shown\Load VERSUS Shown\obj\Debug\Load VERSUS Shown.pdb
+E:\2023-2024\Ivz 7.P\Programování\03\Load VERSUS Shown\Load VERSUS Shown\bin\Debug\Load VERSUS Shown.exe.config
+E:\2023-2024\Ivz 7.P\Programování\03\Load VERSUS Shown\Load VERSUS Shown\bin\Debug\Load VERSUS Shown.exe
+E:\2023-2024\Ivz 7.P\Programování\03\Load VERSUS Shown\Load VERSUS Shown\bin\Debug\Load VERSUS Shown.pdb
+E:\2023-2024\Ivz 7.P\Programování\03\Load VERSUS Shown\Load VERSUS Shown\obj\Debug\Load VERSUS Shown.csproj.AssemblyReference.cache
+E:\2023-2024\Ivz 7.P\Programování\03\Load VERSUS Shown\Load VERSUS Shown\obj\Debug\Load_VERSUS_Shown.oknoProgramu.resources
+E:\2023-2024\Ivz 7.P\Programování\03\Load VERSUS Shown\Load VERSUS Shown\obj\Debug\Load_VERSUS_Shown.Properties.Resources.resources
+E:\2023-2024\Ivz 7.P\Programování\03\Load VERSUS Shown\Load VERSUS Shown\obj\Debug\Load VERSUS Shown.csproj.GenerateResource.cache
+E:\2023-2024\Ivz 7.P\Programování\03\Load VERSUS Shown\Load VERSUS Shown\obj\Debug\Load VERSUS Shown.csproj.CoreCompileInputs.cache
+E:\2023-2024\Ivz 7.P\Programování\03\Load VERSUS Shown\Load VERSUS Shown\obj\Debug\Load VERSUS Shown.exe
+E:\2023-2024\Ivz 7.P\Programování\03\Load VERSUS Shown\Load VERSUS Shown\obj\Debug\Load VERSUS Shown.pdb

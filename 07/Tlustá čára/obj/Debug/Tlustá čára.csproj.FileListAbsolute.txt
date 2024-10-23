@@ -1,0 +1,9 @@
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Tlustá čára\bin\Debug\Tlustá čára.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Tlustá čára\bin\Debug\Tlustá čára.pdb
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Tlustá čára\obj\Debug\ResolveAssemblyReference.cache
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Tlustá čára\obj\Debug\Tlustá_čára.oknoProgramu.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Tlustá čára\obj\Debug\Tlustá_čára.Properties.Resources.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Tlustá čára\obj\Debug\GenerateResource.read.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Tlustá čára\obj\Debug\GenerateResource.write.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Tlustá čára\obj\Debug\Tlustá čára.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Tlustá čára\obj\Debug\Tlustá čára.pdb

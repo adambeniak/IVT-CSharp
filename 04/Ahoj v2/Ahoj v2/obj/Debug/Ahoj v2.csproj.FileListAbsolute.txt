@@ -1,0 +1,20 @@
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Ahoj v2\Ahoj v2\bin\Debug\Ahoj v2.exe.config
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Ahoj v2\Ahoj v2\bin\Debug\Ahoj v2.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Ahoj v2\Ahoj v2\bin\Debug\Ahoj v2.pdb
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Ahoj v2\Ahoj v2\obj\Debug\Ahoj v2.csproj.AssemblyReference.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Ahoj v2\Ahoj v2\obj\Debug\Ahoj_v2.oknoProgramu.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Ahoj v2\Ahoj v2\obj\Debug\Ahoj_v2.Properties.Resources.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Ahoj v2\Ahoj v2\obj\Debug\Ahoj v2.csproj.GenerateResource.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Ahoj v2\Ahoj v2\obj\Debug\Ahoj v2.csproj.CoreCompileInputs.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Ahoj v2\Ahoj v2\obj\Debug\Ahoj v2.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Ahoj v2\Ahoj v2\obj\Debug\Ahoj v2.pdb
+G:\2023-2024\Ivz 7.P\Programování\04\Ahoj v2\Ahoj v2\bin\Debug\Ahoj v2.exe.config
+G:\2023-2024\Ivz 7.P\Programování\04\Ahoj v2\Ahoj v2\bin\Debug\Ahoj v2.exe
+G:\2023-2024\Ivz 7.P\Programování\04\Ahoj v2\Ahoj v2\bin\Debug\Ahoj v2.pdb
+G:\2023-2024\Ivz 7.P\Programování\04\Ahoj v2\Ahoj v2\obj\Debug\Ahoj v2.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Ahoj v2\Ahoj v2\obj\Debug\Ahoj_v2.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\04\Ahoj v2\Ahoj v2\obj\Debug\Ahoj_v2.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\04\Ahoj v2\Ahoj v2\obj\Debug\Ahoj v2.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Ahoj v2\Ahoj v2\obj\Debug\Ahoj v2.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Ahoj v2\Ahoj v2\obj\Debug\Ahoj v2.exe
+G:\2023-2024\Ivz 7.P\Programování\04\Ahoj v2\Ahoj v2\obj\Debug\Ahoj v2.pdb

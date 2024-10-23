@@ -1,0 +1,10 @@
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Ahoj\Ahoj\bin\Debug\Ahoj.exe.config
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Ahoj\Ahoj\bin\Debug\Ahoj.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Ahoj\Ahoj\bin\Debug\Ahoj.pdb
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Ahoj\Ahoj\obj\Debug\Ahoj.csproj.AssemblyReference.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Ahoj\Ahoj\obj\Debug\Ahoj.oknoProgramu.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Ahoj\Ahoj\obj\Debug\Ahoj.Properties.Resources.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Ahoj\Ahoj\obj\Debug\Ahoj.csproj.GenerateResource.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Ahoj\Ahoj\obj\Debug\Ahoj.csproj.CoreCompileInputs.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Ahoj\Ahoj\obj\Debug\Ahoj.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Ahoj\Ahoj\obj\Debug\Ahoj.pdb

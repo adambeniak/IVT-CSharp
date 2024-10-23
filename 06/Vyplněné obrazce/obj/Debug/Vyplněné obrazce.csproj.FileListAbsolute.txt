@@ -1,0 +1,9 @@
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\2 Vyplněné obrazce\bin\Debug\Vyplněné obrazce.exe
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\2 Vyplněné obrazce\bin\Debug\Vyplněné obrazce.pdb
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\2 Vyplněné obrazce\obj\Debug\ResolveAssemblyReference.cache
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\2 Vyplněné obrazce\obj\Debug\Vyplněné_obrazce.oknoProgramu.resources
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\2 Vyplněné obrazce\obj\Debug\Vyplněné_obrazce.Properties.Resources.resources
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\2 Vyplněné obrazce\obj\Debug\GenerateResource.read.1.tlog
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\2 Vyplněné obrazce\obj\Debug\GenerateResource.write.1.tlog
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\2 Vyplněné obrazce\obj\Debug\Vyplněné obrazce.exe
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\2 Vyplněné obrazce\obj\Debug\Vyplněné obrazce.pdb

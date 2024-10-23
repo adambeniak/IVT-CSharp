@@ -1,0 +1,30 @@
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\bin\Debug\Různá přiřazení.exe.config
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\bin\Debug\Různá přiřazení.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\bin\Debug\Různá přiřazení.pdb
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá přiřazení.csproj.AssemblyReference.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá_přiřazení.oknoProgramu.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá_přiřazení.Properties.Resources.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá přiřazení.csproj.GenerateResource.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá přiřazení.csproj.CoreCompileInputs.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá přiřazení.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá přiřazení.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\bin\Debug\Různá přiřazení.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\bin\Debug\Různá přiřazení.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\bin\Debug\Různá přiřazení.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá přiřazení.csproj.AssemblyReference.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá_přiřazení.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá_přiřazení.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá přiřazení.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá přiřazení.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá přiřazení.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá přiřazení.pdb
+G:\2023-2024\Ivz 7.P\Programování\04\Různá přiřazení\Různá přiřazení\bin\Debug\Různá přiřazení.exe.config
+G:\2023-2024\Ivz 7.P\Programování\04\Různá přiřazení\Různá přiřazení\bin\Debug\Různá přiřazení.exe
+G:\2023-2024\Ivz 7.P\Programování\04\Různá přiřazení\Různá přiřazení\bin\Debug\Různá přiřazení.pdb
+G:\2023-2024\Ivz 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá přiřazení.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá_přiřazení.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá_přiřazení.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá přiřazení.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá přiřazení.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá přiřazení.exe
+G:\2023-2024\Ivz 7.P\Programování\04\Různá přiřazení\Různá přiřazení\obj\Debug\Různá přiřazení.pdb

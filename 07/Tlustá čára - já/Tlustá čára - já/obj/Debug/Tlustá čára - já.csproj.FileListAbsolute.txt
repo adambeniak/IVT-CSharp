@@ -1,0 +1,10 @@
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Tlustá čára - já\Tlustá čára - já\bin\Debug\Tlustá čára - já.exe.config
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Tlustá čára - já\Tlustá čára - já\bin\Debug\Tlustá čára - já.exe
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Tlustá čára - já\Tlustá čára - já\bin\Debug\Tlustá čára - já.pdb
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Tlustá čára - já\Tlustá čára - já\obj\Debug\Tlustá čára - já.csproj.AssemblyReference.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Tlustá čára - já\Tlustá čára - já\obj\Debug\Tlustá_čára___já.oknoProgramu.resources
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Tlustá čára - já\Tlustá čára - já\obj\Debug\Tlustá_čára___já.Properties.Resources.resources
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Tlustá čára - já\Tlustá čára - já\obj\Debug\Tlustá čára - já.csproj.GenerateResource.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Tlustá čára - já\Tlustá čára - já\obj\Debug\Tlustá čára - já.csproj.CoreCompileInputs.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Tlustá čára - já\Tlustá čára - já\obj\Debug\Tlustá čára - já.exe
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Tlustá čára - já\Tlustá čára - já\obj\Debug\Tlustá čára - já.pdb

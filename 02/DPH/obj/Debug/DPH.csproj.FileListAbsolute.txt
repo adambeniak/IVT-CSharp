@@ -1,0 +1,11 @@
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\DPH\bin\Debug\DPH.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\DPH\bin\Debug\DPH.pdb
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\DPH\obj\Debug\ResolveAssemblyReference.cache
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\DPH\obj\Debug\DPH.oknoProgramu.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\DPH\obj\Debug\DPH.Properties.Resources.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\DPH\obj\Debug\GenerateResource.read.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\DPH\obj\Debug\GenerateResource.write.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\DPH\obj\Debug\DPH.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\DPH\obj\Debug\DPH.pdb
+\\lister\users\pazdera.m\Plocha\Programování\sbirka-pro-zacatecniky-2010\Kapitola 02\DPH\obj\Debug\DPH.exe
+\\lister\users\pazdera.m\Plocha\Programování\sbirka-pro-zacatecniky-2010\Kapitola 02\DPH\obj\Debug\DPH.pdb

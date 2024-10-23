@@ -1,0 +1,9 @@
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Odstíny šedi\bin\Debug\Odstíny šedi.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Odstíny šedi\bin\Debug\Odstíny šedi.pdb
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Odstíny šedi\obj\Debug\ResolveAssemblyReference.cache
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Odstíny šedi\obj\Debug\Odstíny_šedi.oknoProgramu.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Odstíny šedi\obj\Debug\Odstíny_šedi.Properties.Resources.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Odstíny šedi\obj\Debug\GenerateResource.read.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Odstíny šedi\obj\Debug\GenerateResource.write.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Odstíny šedi\obj\Debug\Odstíny šedi.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 07\Odstíny šedi\obj\Debug\Odstíny šedi.pdb

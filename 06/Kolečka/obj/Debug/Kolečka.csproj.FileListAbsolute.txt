@@ -1,0 +1,18 @@
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Kolečka\bin\Debug\Kolečka.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Kolečka\bin\Debug\Kolečka.pdb
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Kolečka\obj\Debug\ResolveAssemblyReference.cache
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Kolečka\obj\Debug\Kolečka.oknoProgramu.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Kolečka\obj\Debug\Kolečka.Properties.Resources.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Kolečka\obj\Debug\GenerateResource.read.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Kolečka\obj\Debug\GenerateResource.write.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Kolečka\obj\Debug\Kolečka.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Kolečka\obj\Debug\Kolečka.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Kolečka\bin\Debug\Kolečka.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Kolečka\bin\Debug\Kolečka.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Kolečka\obj\Debug\Kolečka.csproj.AssemblyReference.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Kolečka\obj\Debug\Kolečka.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Kolečka\obj\Debug\Kolečka.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Kolečka\obj\Debug\Kolečka.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Kolečka\obj\Debug\Kolečka.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Kolečka\obj\Debug\Kolečka.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Kolečka\obj\Debug\Kolečka.pdb

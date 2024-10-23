@@ -1,0 +1,20 @@
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\bin\Debug\Dvojitá záloha.exe.config
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\bin\Debug\Dvojitá záloha.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\bin\Debug\Dvojitá záloha.pdb
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\obj\Debug\Dvojitá záloha.csproj.AssemblyReference.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\obj\Debug\Dvojitá_záloha.oknoProgramu.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\obj\Debug\Dvojitá_záloha.Properties.Resources.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\obj\Debug\Dvojitá záloha.csproj.GenerateResource.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\obj\Debug\Dvojitá záloha.csproj.CoreCompileInputs.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\obj\Debug\Dvojitá záloha.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\obj\Debug\Dvojitá záloha.pdb
+E:\2023-2024\Ivz 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\bin\Debug\Dvojitá záloha.exe.config
+E:\2023-2024\Ivz 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\bin\Debug\Dvojitá záloha.exe
+E:\2023-2024\Ivz 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\bin\Debug\Dvojitá záloha.pdb
+E:\2023-2024\Ivz 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\obj\Debug\Dvojitá záloha.csproj.AssemblyReference.cache
+E:\2023-2024\Ivz 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\obj\Debug\Dvojitá_záloha.oknoProgramu.resources
+E:\2023-2024\Ivz 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\obj\Debug\Dvojitá_záloha.Properties.Resources.resources
+E:\2023-2024\Ivz 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\obj\Debug\Dvojitá záloha.csproj.GenerateResource.cache
+E:\2023-2024\Ivz 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\obj\Debug\Dvojitá záloha.csproj.CoreCompileInputs.cache
+E:\2023-2024\Ivz 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\obj\Debug\Dvojitá záloha.exe
+E:\2023-2024\Ivz 7.P\Programování\04\Dvojitá záloha\Dvojitá záloha\obj\Debug\Dvojitá záloha.pdb

@@ -1,0 +1,10 @@
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Společná obsluha\Společná obsluha\bin\Debug\Společná obsluha.exe.config
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Společná obsluha\Společná obsluha\bin\Debug\Společná obsluha.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Společná obsluha\Společná obsluha\bin\Debug\Společná obsluha.pdb
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Společná obsluha\Společná obsluha\obj\Debug\Společná obsluha.csproj.AssemblyReference.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Společná obsluha\Společná obsluha\obj\Debug\Společná_obsluha.oknoProgramu.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Společná obsluha\Společná obsluha\obj\Debug\Společná_obsluha.Properties.Resources.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Společná obsluha\Společná obsluha\obj\Debug\Společná obsluha.csproj.GenerateResource.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Společná obsluha\Společná obsluha\obj\Debug\Společná obsluha.csproj.CoreCompileInputs.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Společná obsluha\Společná obsluha\obj\Debug\Společná obsluha.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Společná obsluha\Společná obsluha\obj\Debug\Společná obsluha.pdb

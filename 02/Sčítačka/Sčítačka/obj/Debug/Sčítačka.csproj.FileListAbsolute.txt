@@ -1,0 +1,10 @@
+G:\2023-2024\Ivz 7.P\Programování\02\Sčítačka\Sčítačka\bin\Debug\Sčítačka.exe.config
+G:\2023-2024\Ivz 7.P\Programování\02\Sčítačka\Sčítačka\bin\Debug\Sčítačka.exe
+G:\2023-2024\Ivz 7.P\Programování\02\Sčítačka\Sčítačka\bin\Debug\Sčítačka.pdb
+G:\2023-2024\Ivz 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.exe
+G:\2023-2024\Ivz 7.P\Programování\02\Sčítačka\Sčítačka\obj\Debug\Sčítačka.pdb

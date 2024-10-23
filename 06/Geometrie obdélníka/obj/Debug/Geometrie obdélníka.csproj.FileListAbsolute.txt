@@ -1,0 +1,11 @@
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Geometrie obdélníka\bin\Debug\Geometrie obdélníka.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Geometrie obdélníka\bin\Debug\Geometrie obdélníka.pdb
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Geometrie obdélníka\obj\Debug\ResolveAssemblyReference.cache
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Geometrie obdélníka\obj\Debug\Geometrie_obdélníka.oknoProgramu.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Geometrie obdélníka\obj\Debug\Geometrie_obdélníka.Properties.Resources.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Geometrie obdélníka\obj\Debug\GenerateResource.read.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Geometrie obdélníka\obj\Debug\GenerateResource.write.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Geometrie obdélníka\obj\Debug\Geometrie obdélníka.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 06\Geometrie obdélníka\obj\Debug\Geometrie obdélníka.pdb
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Geometrie obdélníka\obj\Debug\Geometrie obdélníka.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\06\Geometrie obdélníka\obj\Debug\Geometrie obdélníka.pdb

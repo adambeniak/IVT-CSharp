@@ -1,0 +1,20 @@
+G:\2023-2024\Ivz 7.P\Programování\02\Přepínač\Přepínač\bin\Debug\Přepínač.exe.config
+G:\2023-2024\Ivz 7.P\Programování\02\Přepínač\Přepínač\bin\Debug\Přepínač.exe
+G:\2023-2024\Ivz 7.P\Programování\02\Přepínač\Přepínač\bin\Debug\Přepínač.pdb
+G:\2023-2024\Ivz 7.P\Programování\02\Přepínač\Přepínač\obj\Debug\Přepínač.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Přepínač\Přepínač\obj\Debug\Přepínač.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\02\Přepínač\Přepínač\obj\Debug\Přepínač.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\02\Přepínač\Přepínač\obj\Debug\Přepínač.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Přepínač\Přepínač\obj\Debug\Přepínač.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Přepínač\Přepínač\obj\Debug\Přepínač.exe
+G:\2023-2024\Ivz 7.P\Programování\02\Přepínač\Přepínač\obj\Debug\Přepínač.pdb
+G:\2023-2024\Ivz 7.P\Programování\02\Více přrpínačů v okně\Přepínač\bin\Debug\Přepínač.exe.config
+G:\2023-2024\Ivz 7.P\Programování\02\Více přrpínačů v okně\Přepínač\bin\Debug\Přepínač.exe
+G:\2023-2024\Ivz 7.P\Programování\02\Více přrpínačů v okně\Přepínač\bin\Debug\Přepínač.pdb
+G:\2023-2024\Ivz 7.P\Programování\02\Více přrpínačů v okně\Přepínač\obj\Debug\Přepínač.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Více přrpínačů v okně\Přepínač\obj\Debug\Přepínač.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\02\Více přrpínačů v okně\Přepínač\obj\Debug\Přepínač.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\02\Více přrpínačů v okně\Přepínač\obj\Debug\Přepínač.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Více přrpínačů v okně\Přepínač\obj\Debug\Přepínač.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Více přrpínačů v okně\Přepínač\obj\Debug\Přepínač.exe
+G:\2023-2024\Ivz 7.P\Programování\02\Více přrpínačů v okně\Přepínač\obj\Debug\Přepínač.pdb

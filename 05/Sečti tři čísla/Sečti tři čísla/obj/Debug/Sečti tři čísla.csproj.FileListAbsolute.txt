@@ -1,0 +1,20 @@
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\bin\Debug\Sečti tři čísla.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\bin\Debug\Sečti tři čísla.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\bin\Debug\Sečti tři čísla.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\obj\Debug\Sečti tři čísla.csproj.AssemblyReference.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\obj\Debug\Sečti_tři_čísla.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\obj\Debug\Sečti_tři_čísla.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\obj\Debug\Sečti tři čísla.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\obj\Debug\Sečti tři čísla.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\obj\Debug\Sečti tři čísla.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\obj\Debug\Sečti tři čísla.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\bin\Debug\Sečti tři čísla.exe.config
+G:\2023-2024\Ivz 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\bin\Debug\Sečti tři čísla.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\bin\Debug\Sečti tři čísla.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\obj\Debug\Sečti tři čísla.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\obj\Debug\Sečti_tři_čísla.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\obj\Debug\Sečti_tři_čísla.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\obj\Debug\Sečti tři čísla.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\obj\Debug\Sečti tři čísla.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\obj\Debug\Sečti tři čísla.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Sečti tři čísla\Sečti tři čísla\obj\Debug\Sečti tři čísla.pdb

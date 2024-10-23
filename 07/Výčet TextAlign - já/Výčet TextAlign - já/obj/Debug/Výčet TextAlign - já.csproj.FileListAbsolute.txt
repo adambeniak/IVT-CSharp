@@ -1,0 +1,10 @@
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Výčet TextAlign - já\Výčet TextAlign - já\bin\Debug\Výčet TextAlign - já.exe.config
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Výčet TextAlign - já\Výčet TextAlign - já\bin\Debug\Výčet TextAlign - já.exe
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Výčet TextAlign - já\Výčet TextAlign - já\bin\Debug\Výčet TextAlign - já.pdb
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Výčet TextAlign - já\Výčet TextAlign - já\obj\Debug\Výčet TextAlign - já.csproj.AssemblyReference.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Výčet TextAlign - já\Výčet TextAlign - já\obj\Debug\Výčet_TextAlign___já.oknoProgramu.resources
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Výčet TextAlign - já\Výčet TextAlign - já\obj\Debug\Výčet_TextAlign___já.Properties.Resources.resources
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Výčet TextAlign - já\Výčet TextAlign - já\obj\Debug\Výčet TextAlign - já.csproj.GenerateResource.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Výčet TextAlign - já\Výčet TextAlign - já\obj\Debug\Výčet TextAlign - já.csproj.CoreCompileInputs.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Výčet TextAlign - já\Výčet TextAlign - já\obj\Debug\Výčet TextAlign - já.exe
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\Výčet TextAlign - já\Výčet TextAlign - já\obj\Debug\Výčet TextAlign - já.pdb

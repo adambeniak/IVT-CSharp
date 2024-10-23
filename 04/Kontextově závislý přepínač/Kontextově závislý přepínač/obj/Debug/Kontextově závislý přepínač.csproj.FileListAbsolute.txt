@@ -1,0 +1,30 @@
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\bin\Debug\Kontextově závislý přepínač.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\bin\Debug\Kontextově závislý přepínač.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\bin\Debug\Kontextově závislý přepínač.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově závislý přepínač.csproj.AssemblyReference.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově_závislý_přepínač.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově_závislý_přepínač.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově závislý přepínač.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově závislý přepínač.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově závislý přepínač.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově závislý přepínač.pdb
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\bin\Debug\Kontextově závislý přepínač.exe.config
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\bin\Debug\Kontextově závislý přepínač.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\bin\Debug\Kontextově závislý přepínač.pdb
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově závislý přepínač.csproj.AssemblyReference.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově_závislý_přepínač.oknoProgramu.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově_závislý_přepínač.Properties.Resources.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově závislý přepínač.csproj.GenerateResource.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově závislý přepínač.csproj.CoreCompileInputs.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově závislý přepínač.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově závislý přepínač.pdb
+G:\2023-2024\Ivz 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\bin\Debug\Kontextově závislý přepínač.exe.config
+G:\2023-2024\Ivz 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\bin\Debug\Kontextově závislý přepínač.exe
+G:\2023-2024\Ivz 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\bin\Debug\Kontextově závislý přepínač.pdb
+G:\2023-2024\Ivz 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově závislý přepínač.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově_závislý_přepínač.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově_závislý_přepínač.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově závislý přepínač.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově závislý přepínač.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově závislý přepínač.exe
+G:\2023-2024\Ivz 7.P\Programování\04\Kontextově závislý přepínač\Kontextově závislý přepínač\obj\Debug\Kontextově závislý přepínač.pdb

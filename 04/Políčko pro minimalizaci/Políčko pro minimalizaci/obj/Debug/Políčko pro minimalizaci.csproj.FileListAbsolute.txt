@@ -1,0 +1,19 @@
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Políčko pro minimalizaci\Políčko pro minimalizaci\bin\Debug\Políčko pro minimalizaci.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Políčko pro minimalizaci\Políčko pro minimalizaci\bin\Debug\Políčko pro minimalizaci.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Políčko pro minimalizaci\Políčko pro minimalizaci\bin\Debug\Políčko pro minimalizaci.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Políčko pro minimalizaci\Políčko pro minimalizaci\obj\Debug\Políčko_pro_minimalizaci.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Políčko pro minimalizaci\Políčko pro minimalizaci\obj\Debug\Políčko_pro_minimalizaci.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Políčko pro minimalizaci\Políčko pro minimalizaci\obj\Debug\Políčko pro minimalizaci.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Políčko pro minimalizaci\Políčko pro minimalizaci\obj\Debug\Políčko pro minimalizaci.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Políčko pro minimalizaci\Políčko pro minimalizaci\obj\Debug\Políčko pro minimalizaci.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Políčko pro minimalizaci\Políčko pro minimalizaci\obj\Debug\Políčko pro minimalizaci.pdb
+G:\2023-2024\Ivz 7.P\Programování\04\Políčko pro minimalizaci\Políčko pro minimalizaci\bin\Debug\Políčko pro minimalizaci.exe.config
+G:\2023-2024\Ivz 7.P\Programování\04\Políčko pro minimalizaci\Políčko pro minimalizaci\bin\Debug\Políčko pro minimalizaci.exe
+G:\2023-2024\Ivz 7.P\Programování\04\Políčko pro minimalizaci\Políčko pro minimalizaci\bin\Debug\Políčko pro minimalizaci.pdb
+G:\2023-2024\Ivz 7.P\Programování\04\Políčko pro minimalizaci\Políčko pro minimalizaci\obj\Debug\Políčko pro minimalizaci.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Políčko pro minimalizaci\Políčko pro minimalizaci\obj\Debug\Políčko_pro_minimalizaci.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\04\Políčko pro minimalizaci\Políčko pro minimalizaci\obj\Debug\Políčko_pro_minimalizaci.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\04\Políčko pro minimalizaci\Políčko pro minimalizaci\obj\Debug\Políčko pro minimalizaci.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Políčko pro minimalizaci\Políčko pro minimalizaci\obj\Debug\Políčko pro minimalizaci.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Políčko pro minimalizaci\Políčko pro minimalizaci\obj\Debug\Políčko pro minimalizaci.exe
+G:\2023-2024\Ivz 7.P\Programování\04\Políčko pro minimalizaci\Políčko pro minimalizaci\obj\Debug\Políčko pro minimalizaci.pdb

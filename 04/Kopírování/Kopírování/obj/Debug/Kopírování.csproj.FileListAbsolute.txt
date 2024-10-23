@@ -1,0 +1,20 @@
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Kopírování\Kopírování\bin\Debug\Kopírování.exe.config
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Kopírování\Kopírování\bin\Debug\Kopírování.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Kopírování\Kopírování\bin\Debug\Kopírování.pdb
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Kopírování\Kopírování\obj\Debug\Kopírování.csproj.AssemblyReference.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Kopírování\Kopírování\obj\Debug\Kopírování.oknoProgramu.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Kopírování\Kopírování\obj\Debug\Kopírování.Properties.Resources.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Kopírování\Kopírování\obj\Debug\Kopírování.csproj.GenerateResource.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Kopírování\Kopírování\obj\Debug\Kopírování.csproj.CoreCompileInputs.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Kopírování\Kopírování\obj\Debug\Kopírování.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\04\Kopírování\Kopírování\obj\Debug\Kopírování.pdb
+G:\2023-2024\Ivz 7.P\Programování\04\Kopírování\Kopírování\bin\Debug\Kopírování.exe.config
+G:\2023-2024\Ivz 7.P\Programování\04\Kopírování\Kopírování\bin\Debug\Kopírování.exe
+G:\2023-2024\Ivz 7.P\Programování\04\Kopírování\Kopírování\bin\Debug\Kopírování.pdb
+G:\2023-2024\Ivz 7.P\Programování\04\Kopírování\Kopírování\obj\Debug\Kopírování.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Kopírování\Kopírování\obj\Debug\Kopírování.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\04\Kopírování\Kopírování\obj\Debug\Kopírování.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\04\Kopírování\Kopírování\obj\Debug\Kopírování.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Kopírování\Kopírování\obj\Debug\Kopírování.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Kopírování\Kopírování\obj\Debug\Kopírování.exe
+G:\2023-2024\Ivz 7.P\Programování\04\Kopírování\Kopírování\obj\Debug\Kopírování.pdb

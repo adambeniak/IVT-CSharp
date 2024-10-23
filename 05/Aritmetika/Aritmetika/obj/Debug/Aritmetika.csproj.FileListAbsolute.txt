@@ -1,0 +1,20 @@
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Aritmetika\Aritmetika\bin\Debug\Aritmetika.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Aritmetika\Aritmetika\bin\Debug\Aritmetika.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Aritmetika\Aritmetika\bin\Debug\Aritmetika.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Aritmetika\Aritmetika\obj\Debug\Aritmetika.csproj.AssemblyReference.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Aritmetika\Aritmetika\obj\Debug\Aritmetika.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Aritmetika\Aritmetika\obj\Debug\Aritmetika.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Aritmetika\Aritmetika\obj\Debug\Aritmetika.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Aritmetika\Aritmetika\obj\Debug\Aritmetika.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Aritmetika\Aritmetika\obj\Debug\Aritmetika.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Aritmetika\Aritmetika\obj\Debug\Aritmetika.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Aritmetika\Aritmetika\bin\Debug\Aritmetika.exe.config
+G:\2023-2024\Ivz 7.P\Programování\05\Aritmetika\Aritmetika\bin\Debug\Aritmetika.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Aritmetika\Aritmetika\bin\Debug\Aritmetika.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Aritmetika\Aritmetika\obj\Debug\Aritmetika.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Aritmetika\Aritmetika\obj\Debug\Aritmetika.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Aritmetika\Aritmetika\obj\Debug\Aritmetika.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Aritmetika\Aritmetika\obj\Debug\Aritmetika.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Aritmetika\Aritmetika\obj\Debug\Aritmetika.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Aritmetika\Aritmetika\obj\Debug\Aritmetika.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Aritmetika\Aritmetika\obj\Debug\Aritmetika.pdb

@@ -1,0 +1,20 @@
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Barevný text\Barevný text\bin\Debug\Barevný text.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Barevný text\Barevný text\bin\Debug\Barevný text.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Barevný text\Barevný text\bin\Debug\Barevný text.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Barevný text\Barevný text\obj\Debug\Barevný text.csproj.AssemblyReference.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Barevný text\Barevný text\obj\Debug\Barevný_text.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Barevný text\Barevný text\obj\Debug\Barevný_text.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Barevný text\Barevný text\obj\Debug\Barevný text.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Barevný text\Barevný text\obj\Debug\Barevný text.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Barevný text\Barevný text\obj\Debug\Barevný text.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\04\Barevný text\Barevný text\obj\Debug\Barevný text.pdb
+G:\2023-2024\Ivz 7.P\Programování\04\Barevný text\Barevný text\bin\Debug\Barevný text.exe.config
+G:\2023-2024\Ivz 7.P\Programování\04\Barevný text\Barevný text\bin\Debug\Barevný text.exe
+G:\2023-2024\Ivz 7.P\Programování\04\Barevný text\Barevný text\bin\Debug\Barevný text.pdb
+G:\2023-2024\Ivz 7.P\Programování\04\Barevný text\Barevný text\obj\Debug\Barevný text.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Barevný text\Barevný text\obj\Debug\Barevný_text.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\04\Barevný text\Barevný text\obj\Debug\Barevný_text.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\04\Barevný text\Barevný text\obj\Debug\Barevný text.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Barevný text\Barevný text\obj\Debug\Barevný text.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\04\Barevný text\Barevný text\obj\Debug\Barevný text.exe
+G:\2023-2024\Ivz 7.P\Programování\04\Barevný text\Barevný text\obj\Debug\Barevný text.pdb

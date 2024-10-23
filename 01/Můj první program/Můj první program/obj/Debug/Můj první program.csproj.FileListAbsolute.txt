@@ -1,0 +1,9 @@
+T:\Ivz 7.P\Programování\01\Můj první program\Můj první program\bin\Debug\Můj první program.exe.config
+T:\Ivz 7.P\Programování\01\Můj první program\Můj první program\bin\Debug\Můj první program.exe
+T:\Ivz 7.P\Programování\01\Můj první program\Můj první program\bin\Debug\Můj první program.pdb
+T:\Ivz 7.P\Programování\01\Můj první program\Můj první program\obj\Debug\Můj první program.csproj.AssemblyReference.cache
+T:\Ivz 7.P\Programování\01\Můj první program\Můj první program\obj\Debug\Můj_první_program.Properties.Resources.resources
+T:\Ivz 7.P\Programování\01\Můj první program\Můj první program\obj\Debug\Můj první program.csproj.GenerateResource.cache
+T:\Ivz 7.P\Programování\01\Můj první program\Můj první program\obj\Debug\Můj první program.csproj.CoreCompileInputs.cache
+T:\Ivz 7.P\Programování\01\Můj první program\Můj první program\obj\Debug\Můj první program.exe
+T:\Ivz 7.P\Programování\01\Můj první program\Můj první program\obj\Debug\Můj první program.pdb

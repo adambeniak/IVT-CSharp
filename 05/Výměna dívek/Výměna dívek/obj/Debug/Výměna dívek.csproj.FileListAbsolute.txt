@@ -1,0 +1,20 @@
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna dívek\Výměna dívek\bin\Debug\Výměna dívek.exe.config
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna dívek\Výměna dívek\bin\Debug\Výměna dívek.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna dívek\Výměna dívek\bin\Debug\Výměna dívek.pdb
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna dívek\Výměna dívek\obj\Debug\Výměna dívek.csproj.AssemblyReference.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna dívek\Výměna dívek\obj\Debug\Výměna_dívek.oknoProgramu.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna dívek\Výměna dívek\obj\Debug\Výměna_dívek.Properties.Resources.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna dívek\Výměna dívek\obj\Debug\Výměna dívek.csproj.GenerateResource.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna dívek\Výměna dívek\obj\Debug\Výměna dívek.csproj.CoreCompileInputs.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna dívek\Výměna dívek\obj\Debug\Výměna dívek.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna dívek\Výměna dívek\obj\Debug\Výměna dívek.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna dívek\Výměna dívek\bin\Debug\Výměna dívek.exe.config
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna dívek\Výměna dívek\bin\Debug\Výměna dívek.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna dívek\Výměna dívek\bin\Debug\Výměna dívek.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna dívek\Výměna dívek\obj\Debug\Výměna dívek.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna dívek\Výměna dívek\obj\Debug\Výměna_dívek.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna dívek\Výměna dívek\obj\Debug\Výměna_dívek.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna dívek\Výměna dívek\obj\Debug\Výměna dívek.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna dívek\Výměna dívek\obj\Debug\Výměna dívek.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna dívek\Výměna dívek\obj\Debug\Výměna dívek.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna dívek\Výměna dívek\obj\Debug\Výměna dívek.pdb

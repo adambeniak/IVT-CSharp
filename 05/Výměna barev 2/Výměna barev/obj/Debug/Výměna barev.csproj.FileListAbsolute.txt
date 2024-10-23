@@ -1,0 +1,30 @@
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev\Výměna barev\bin\Debug\Výměna barev.exe.config
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev\Výměna barev\bin\Debug\Výměna barev.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev\Výměna barev\bin\Debug\Výměna barev.pdb
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev\Výměna barev\obj\Debug\Výměna barev.csproj.AssemblyReference.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev\Výměna barev\obj\Debug\Výměna_barev.oknoProgramu.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev\Výměna barev\obj\Debug\Výměna_barev.Properties.Resources.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev\Výměna barev\obj\Debug\Výměna barev.csproj.GenerateResource.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev\Výměna barev\obj\Debug\Výměna barev.csproj.CoreCompileInputs.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev\Výměna barev\obj\Debug\Výměna barev.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev\Výměna barev\obj\Debug\Výměna barev.pdb
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev 2\Výměna barev\bin\Debug\Výměna barev.exe.config
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev 2\Výměna barev\bin\Debug\Výměna barev.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev 2\Výměna barev\bin\Debug\Výměna barev.pdb
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev 2\Výměna barev\obj\Debug\Výměna barev.csproj.AssemblyReference.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev 2\Výměna barev\obj\Debug\Výměna_barev.oknoProgramu.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev 2\Výměna barev\obj\Debug\Výměna_barev.Properties.Resources.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev 2\Výměna barev\obj\Debug\Výměna barev.csproj.GenerateResource.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev 2\Výměna barev\obj\Debug\Výměna barev.csproj.CoreCompileInputs.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev 2\Výměna barev\obj\Debug\Výměna barev.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\05\Výměna barev 2\Výměna barev\obj\Debug\Výměna barev.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna barev 2\Výměna barev\bin\Debug\Výměna barev.exe.config
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna barev 2\Výměna barev\bin\Debug\Výměna barev.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna barev 2\Výměna barev\bin\Debug\Výměna barev.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna barev 2\Výměna barev\obj\Debug\Výměna barev.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna barev 2\Výměna barev\obj\Debug\Výměna_barev.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna barev 2\Výměna barev\obj\Debug\Výměna_barev.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna barev 2\Výměna barev\obj\Debug\Výměna barev.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna barev 2\Výměna barev\obj\Debug\Výměna barev.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna barev 2\Výměna barev\obj\Debug\Výměna barev.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Výměna barev 2\Výměna barev\obj\Debug\Výměna barev.pdb

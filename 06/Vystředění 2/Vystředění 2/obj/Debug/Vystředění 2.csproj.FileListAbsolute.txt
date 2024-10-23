@@ -1,0 +1,20 @@
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Vystředění 2\Vystředění 2\bin\Debug\Vystředění 2.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Vystředění 2\Vystředění 2\bin\Debug\Vystředění 2.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Vystředění 2\Vystředění 2\bin\Debug\Vystředění 2.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Vystředění 2\Vystředění 2\obj\Debug\Vystředění 2.csproj.AssemblyReference.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Vystředění 2\Vystředění 2\obj\Debug\Vystředění_2.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Vystředění 2\Vystředění 2\obj\Debug\Vystředění_2.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Vystředění 2\Vystředění 2\obj\Debug\Vystředění 2.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Vystředění 2\Vystředění 2\obj\Debug\Vystředění 2.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Vystředění 2\Vystředění 2\obj\Debug\Vystředění 2.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\06\Vystředění 2\Vystředění 2\obj\Debug\Vystředění 2.pdb
+T:\Ivz 7.P 8.P\Programování\06\Vystředění 2\Vystředění 2\bin\Debug\Vystředění 2.exe.config
+T:\Ivz 7.P 8.P\Programování\06\Vystředění 2\Vystředění 2\bin\Debug\Vystředění 2.exe
+T:\Ivz 7.P 8.P\Programování\06\Vystředění 2\Vystředění 2\bin\Debug\Vystředění 2.pdb
+T:\Ivz 7.P 8.P\Programování\06\Vystředění 2\Vystředění 2\obj\Debug\Vystředění 2.csproj.AssemblyReference.cache
+T:\Ivz 7.P 8.P\Programování\06\Vystředění 2\Vystředění 2\obj\Debug\Vystředění_2.oknoProgramu.resources
+T:\Ivz 7.P 8.P\Programování\06\Vystředění 2\Vystředění 2\obj\Debug\Vystředění_2.Properties.Resources.resources
+T:\Ivz 7.P 8.P\Programování\06\Vystředění 2\Vystředění 2\obj\Debug\Vystředění 2.csproj.GenerateResource.cache
+T:\Ivz 7.P 8.P\Programování\06\Vystředění 2\Vystředění 2\obj\Debug\Vystředění 2.csproj.CoreCompileInputs.cache
+T:\Ivz 7.P 8.P\Programování\06\Vystředění 2\Vystředění 2\obj\Debug\Vystředění 2.exe
+T:\Ivz 7.P 8.P\Programování\06\Vystředění 2\Vystředění 2\obj\Debug\Vystředění 2.pdb

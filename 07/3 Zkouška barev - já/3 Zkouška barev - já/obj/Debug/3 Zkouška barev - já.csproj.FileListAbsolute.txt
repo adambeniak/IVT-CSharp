@@ -1,0 +1,10 @@
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\3 Zkouška barev - já\3 Zkouška barev - já\bin\Debug\3 Zkouška barev - já.exe.config
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\3 Zkouška barev - já\3 Zkouška barev - já\bin\Debug\3 Zkouška barev - já.exe
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\3 Zkouška barev - já\3 Zkouška barev - já\bin\Debug\3 Zkouška barev - já.pdb
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\3 Zkouška barev - já\3 Zkouška barev - já\obj\Debug\3 Zkouška barev - já.csproj.AssemblyReference.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\3 Zkouška barev - já\3 Zkouška barev - já\obj\Debug\_3_Zkouška_barev___já.oknoProgramu.resources
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\3 Zkouška barev - já\3 Zkouška barev - já\obj\Debug\_3_Zkouška_barev___já.Properties.Resources.resources
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\3 Zkouška barev - já\3 Zkouška barev - já\obj\Debug\3 Zkouška barev - já.csproj.GenerateResource.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\3 Zkouška barev - já\3 Zkouška barev - já\obj\Debug\3 Zkouška barev - já.csproj.CoreCompileInputs.cache
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\3 Zkouška barev - já\3 Zkouška barev - já\obj\Debug\3 Zkouška barev - já.exe
+H:\2023-2024\Ivz 7.P 8.P\Programování\07\3 Zkouška barev - já\3 Zkouška barev - já\obj\Debug\3 Zkouška barev - já.pdb

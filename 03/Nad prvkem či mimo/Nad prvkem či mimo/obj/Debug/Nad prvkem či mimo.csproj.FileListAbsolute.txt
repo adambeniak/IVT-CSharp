@@ -1,0 +1,20 @@
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\bin\Debug\Nad prvkem či mimo.exe.config
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\bin\Debug\Nad prvkem či mimo.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\bin\Debug\Nad prvkem či mimo.pdb
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\obj\Debug\Nad prvkem či mimo.csproj.AssemblyReference.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\obj\Debug\Nad_prvkem_či_mimo.oknoProgramu.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\obj\Debug\Nad_prvkem_či_mimo.Properties.Resources.resources
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\obj\Debug\Nad prvkem či mimo.csproj.GenerateResource.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\obj\Debug\Nad prvkem či mimo.csproj.CoreCompileInputs.cache
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\obj\Debug\Nad prvkem či mimo.exe
+E:\2021-2022\Ivz 3.A 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\obj\Debug\Nad prvkem či mimo.pdb
+E:\2023-2024\Ivz 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\bin\Debug\Nad prvkem či mimo.exe.config
+E:\2023-2024\Ivz 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\bin\Debug\Nad prvkem či mimo.exe
+E:\2023-2024\Ivz 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\bin\Debug\Nad prvkem či mimo.pdb
+E:\2023-2024\Ivz 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\obj\Debug\Nad prvkem či mimo.csproj.AssemblyReference.cache
+E:\2023-2024\Ivz 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\obj\Debug\Nad_prvkem_či_mimo.oknoProgramu.resources
+E:\2023-2024\Ivz 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\obj\Debug\Nad_prvkem_či_mimo.Properties.Resources.resources
+E:\2023-2024\Ivz 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\obj\Debug\Nad prvkem či mimo.csproj.GenerateResource.cache
+E:\2023-2024\Ivz 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\obj\Debug\Nad prvkem či mimo.csproj.CoreCompileInputs.cache
+E:\2023-2024\Ivz 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\obj\Debug\Nad prvkem či mimo.exe
+E:\2023-2024\Ivz 7.P\Programování\03\Nad prvkem či mimo\Nad prvkem či mimo\obj\Debug\Nad prvkem či mimo.pdb

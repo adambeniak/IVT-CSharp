@@ -1,0 +1,30 @@
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\bin\Debug\Přesné rozmisťování.exe.config
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\bin\Debug\Přesné rozmisťování.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\bin\Debug\Přesné rozmisťování.pdb
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné rozmisťování.csproj.AssemblyReference.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné_rozmisťování.oknoProgramu.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné_rozmisťování.Properties.Resources.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné rozmisťování.csproj.GenerateResource.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné rozmisťování.csproj.CoreCompileInputs.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné rozmisťování.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné rozmisťování.pdb
+E:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\bin\Debug\Přesné rozmisťování.exe.config
+E:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\bin\Debug\Přesné rozmisťování.exe
+E:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\bin\Debug\Přesné rozmisťování.pdb
+E:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné rozmisťování.csproj.AssemblyReference.cache
+E:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné_rozmisťování.oknoProgramu.resources
+E:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné_rozmisťování.Properties.Resources.resources
+E:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné rozmisťování.csproj.GenerateResource.cache
+E:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné rozmisťování.csproj.CoreCompileInputs.cache
+E:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné rozmisťování.exe
+E:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné rozmisťování.pdb
+G:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\bin\Debug\Přesné rozmisťování.exe.config
+G:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\bin\Debug\Přesné rozmisťování.exe
+G:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\bin\Debug\Přesné rozmisťování.pdb
+G:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné rozmisťování.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné_rozmisťování.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné_rozmisťování.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné rozmisťování.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné rozmisťování.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné rozmisťování.exe
+G:\2023-2024\Ivz 7.P\Programování\02\Přesné rozmisťování\Přesné rozmisťování\obj\Debug\Přesné rozmisťování.pdb

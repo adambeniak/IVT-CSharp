@@ -1,0 +1,10 @@
+T:\Ivz 7.P\Programování\02\Program s popisky\Program s popisky\bin\Debug\Program s popisky.exe.config
+T:\Ivz 7.P\Programování\02\Program s popisky\Program s popisky\bin\Debug\Program s popisky.exe
+T:\Ivz 7.P\Programování\02\Program s popisky\Program s popisky\bin\Debug\Program s popisky.pdb
+T:\Ivz 7.P\Programování\02\Program s popisky\Program s popisky\obj\Debug\Program s popisky.csproj.AssemblyReference.cache
+T:\Ivz 7.P\Programování\02\Program s popisky\Program s popisky\obj\Debug\Program_s_popisky.oknoProgramu.resources
+T:\Ivz 7.P\Programování\02\Program s popisky\Program s popisky\obj\Debug\Program_s_popisky.Properties.Resources.resources
+T:\Ivz 7.P\Programování\02\Program s popisky\Program s popisky\obj\Debug\Program s popisky.csproj.GenerateResource.cache
+T:\Ivz 7.P\Programování\02\Program s popisky\Program s popisky\obj\Debug\Program s popisky.csproj.CoreCompileInputs.cache
+T:\Ivz 7.P\Programování\02\Program s popisky\Program s popisky\obj\Debug\Program s popisky.exe
+T:\Ivz 7.P\Programování\02\Program s popisky\Program s popisky\obj\Debug\Program s popisky.pdb

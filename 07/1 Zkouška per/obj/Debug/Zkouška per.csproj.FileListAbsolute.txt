@@ -1,0 +1,11 @@
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\1 Zkouška per\bin\Debug\Zkouška per.exe
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\1 Zkouška per\bin\Debug\Zkouška per.pdb
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\1 Zkouška per\obj\Debug\ResolveAssemblyReference.cache
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\1 Zkouška per\obj\Debug\Zkouška_per.oknoProgramu.resources
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\1 Zkouška per\obj\Debug\Zkouška_per.Properties.Resources.resources
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\1 Zkouška per\obj\Debug\GenerateResource.read.1.tlog
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\1 Zkouška per\obj\Debug\GenerateResource.write.1.tlog
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\1 Zkouška per\obj\Debug\Zkouška per.exe
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 07\1 Zkouška per\obj\Debug\Zkouška per.pdb
+\\lister\users\pazdera.m\Plocha\Programování\ucebnice-pro-zacatecniky-2010\Kapitola 07\1 Zkouška per\obj\Debug\Zkouška per.exe
+\\lister\users\pazdera.m\Plocha\Programování\ucebnice-pro-zacatecniky-2010\Kapitola 07\1 Zkouška per\obj\Debug\Zkouška per.pdb

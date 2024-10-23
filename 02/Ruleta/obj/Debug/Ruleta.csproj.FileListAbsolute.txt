@@ -1,0 +1,16 @@
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\Ruleta\bin\Debug\Ruleta.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\Ruleta\bin\Debug\Ruleta.pdb
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\Ruleta\obj\Debug\ResolveAssemblyReference.cache
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\Ruleta\obj\Debug\Ruleta.oknoProgramu.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\Ruleta\obj\Debug\Ruleta.Properties.Resources.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\Ruleta\obj\Debug\GenerateResource.read.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\Ruleta\obj\Debug\GenerateResource.write.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\Ruleta\obj\Debug\Ruleta.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 02\Ruleta\obj\Debug\Ruleta.pdb
+\\lister\users\pazdera.m\Plocha\Programování\sbirka-pro-zacatecniky-2010\Kapitola 02\Ruleta\obj\Debug\Ruleta.exe
+\\lister\users\pazdera.m\Plocha\Programování\sbirka-pro-zacatecniky-2010\Kapitola 02\Ruleta\obj\Debug\Ruleta.pdb
+\\lister\users\pazdera.m\Plocha\Programování\sbirka-pro-zacatecniky-2010\Kapitola 02\Ruleta\bin\Debug\Ruleta.exe
+\\lister\users\pazdera.m\Plocha\Programování\sbirka-pro-zacatecniky-2010\Kapitola 02\Ruleta\bin\Debug\Ruleta.pdb
+\\lister\users\pazdera.m\Plocha\Programování\sbirka-pro-zacatecniky-2010\Kapitola 02\Ruleta\obj\Debug\Ruleta.oknoProgramu.resources
+\\lister\users\pazdera.m\Plocha\Programování\sbirka-pro-zacatecniky-2010\Kapitola 02\Ruleta\obj\Debug\Ruleta.Properties.Resources.resources
+\\lister\users\pazdera.m\Plocha\Programování\sbirka-pro-zacatecniky-2010\Kapitola 02\Ruleta\obj\Debug\Ruleta.csproj.GenerateResource.Cache

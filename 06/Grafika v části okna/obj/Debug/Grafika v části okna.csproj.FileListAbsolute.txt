@@ -1,0 +1,9 @@
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\3 Grafika v části okna\bin\Debug\Grafika v části okna.exe
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\3 Grafika v části okna\bin\Debug\Grafika v části okna.pdb
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\3 Grafika v části okna\obj\Debug\ResolveAssemblyReference.cache
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\3 Grafika v části okna\obj\Debug\Grafika_v_části_okna.oknoProgramu.resources
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\3 Grafika v části okna\obj\Debug\Grafika_v_části_okna.Properties.Resources.resources
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\3 Grafika v části okna\obj\Debug\GenerateResource.read.1.tlog
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\3 Grafika v části okna\obj\Debug\GenerateResource.write.1.tlog
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\3 Grafika v části okna\obj\Debug\Grafika v části okna.exe
+K:\Pro začátečníky\!Učebnice\Programy (2010)\Kapitola 06\3 Grafika v části okna\obj\Debug\Grafika v části okna.pdb

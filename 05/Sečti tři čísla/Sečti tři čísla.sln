@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sečti tři čísla", "Sečti tři čísla\Sečti tři čísla.csproj", "{CD333603-0A20-489B-804A-6373073CF4E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD333603-0A20-489B-804A-6373073CF4E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD333603-0A20-489B-804A-6373073CF4E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD333603-0A20-489B-804A-6373073CF4E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD333603-0A20-489B-804A-6373073CF4E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FC41948-D22A-498B-BA3B-E65715A911D3}
+	EndGlobalSection
+EndGlobal

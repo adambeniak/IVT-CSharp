@@ -1,0 +1,19 @@
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Vstupní text do zprávy\Vstupní text do zprávy\bin\Debug\Vstupní text do zprávy.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Vstupní text do zprávy\Vstupní text do zprávy\bin\Debug\Vstupní text do zprávy.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Vstupní text do zprávy\Vstupní text do zprávy\bin\Debug\Vstupní text do zprávy.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Vstupní text do zprávy\Vstupní text do zprávy\obj\Debug\Vstupní_text_do_zprávy.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Vstupní text do zprávy\Vstupní text do zprávy\obj\Debug\Vstupní_text_do_zprávy.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Vstupní text do zprávy\Vstupní text do zprávy\obj\Debug\Vstupní text do zprávy.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Vstupní text do zprávy\Vstupní text do zprávy\obj\Debug\Vstupní text do zprávy.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Vstupní text do zprávy\Vstupní text do zprávy\obj\Debug\Vstupní text do zprávy.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Vstupní text do zprávy\Vstupní text do zprávy\obj\Debug\Vstupní text do zprávy.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Vstupní text do zprávy\Vstupní text do zprávy\bin\Debug\Vstupní text do zprávy.exe.config
+G:\2023-2024\Ivz 7.P\Programování\05\Vstupní text do zprávy\Vstupní text do zprávy\bin\Debug\Vstupní text do zprávy.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Vstupní text do zprávy\Vstupní text do zprávy\bin\Debug\Vstupní text do zprávy.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Vstupní text do zprávy\Vstupní text do zprávy\obj\Debug\Vstupní text do zprávy.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Vstupní text do zprávy\Vstupní text do zprávy\obj\Debug\Vstupní_text_do_zprávy.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Vstupní text do zprávy\Vstupní text do zprávy\obj\Debug\Vstupní_text_do_zprávy.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Vstupní text do zprávy\Vstupní text do zprávy\obj\Debug\Vstupní text do zprávy.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Vstupní text do zprávy\Vstupní text do zprávy\obj\Debug\Vstupní text do zprávy.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Vstupní text do zprávy\Vstupní text do zprávy\obj\Debug\Vstupní text do zprávy.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Vstupní text do zprávy\Vstupní text do zprávy\obj\Debug\Vstupní text do zprávy.pdb

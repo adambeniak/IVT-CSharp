@@ -1,0 +1,18 @@
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 05\Proměnlivá nabídka\bin\Debug\Proměnlivá nabídka.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 05\Proměnlivá nabídka\bin\Debug\Proměnlivá nabídka.pdb
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 05\Proměnlivá nabídka\obj\Debug\ResolveAssemblyReference.cache
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 05\Proměnlivá nabídka\obj\Debug\Proměnlivá_nabídka.oknoProgramu.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 05\Proměnlivá nabídka\obj\Debug\Proměnlivá_nabídka.Properties.Resources.resources
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 05\Proměnlivá nabídka\obj\Debug\GenerateResource.read.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 05\Proměnlivá nabídka\obj\Debug\GenerateResource.write.1.tlog
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 05\Proměnlivá nabídka\obj\Debug\Proměnlivá nabídka.exe
+K:\Pro začátečníky\!Sbírka\Programy (2010)\Kapitola 05\Proměnlivá nabídka\obj\Debug\Proměnlivá nabídka.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Proměnlivá nabídka\bin\Debug\Proměnlivá nabídka.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Proměnlivá nabídka\bin\Debug\Proměnlivá nabídka.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Proměnlivá nabídka\obj\Debug\Proměnlivá nabídka.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Proměnlivá nabídka\obj\Debug\Proměnlivá_nabídka.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Proměnlivá nabídka\obj\Debug\Proměnlivá_nabídka.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Proměnlivá nabídka\obj\Debug\Proměnlivá nabídka.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Proměnlivá nabídka\obj\Debug\Proměnlivá nabídka.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Proměnlivá nabídka\obj\Debug\Proměnlivá nabídka.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Proměnlivá nabídka\obj\Debug\Proměnlivá nabídka.pdb

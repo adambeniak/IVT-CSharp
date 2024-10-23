@@ -1,0 +1,10 @@
+G:\2023-2024\Ivz 7.P\Programování\03\Událost Resize\Událost Resize\bin\Debug\Událost Resize.exe.config
+G:\2023-2024\Ivz 7.P\Programování\03\Událost Resize\Událost Resize\bin\Debug\Událost Resize.exe
+G:\2023-2024\Ivz 7.P\Programování\03\Událost Resize\Událost Resize\bin\Debug\Událost Resize.pdb
+G:\2023-2024\Ivz 7.P\Programování\03\Událost Resize\Událost Resize\obj\Debug\Událost Resize.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\03\Událost Resize\Událost Resize\obj\Debug\Událost_Resize.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\03\Událost Resize\Událost Resize\obj\Debug\Událost_Resize.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\03\Událost Resize\Událost Resize\obj\Debug\Událost Resize.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\03\Událost Resize\Událost Resize\obj\Debug\Událost Resize.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\03\Událost Resize\Událost Resize\obj\Debug\Událost Resize.exe
+G:\2023-2024\Ivz 7.P\Programování\03\Událost Resize\Událost Resize\obj\Debug\Událost Resize.pdb

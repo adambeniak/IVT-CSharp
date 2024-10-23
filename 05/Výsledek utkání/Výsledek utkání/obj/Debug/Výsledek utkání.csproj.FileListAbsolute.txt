@@ -1,0 +1,19 @@
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Výsledek utkání\Výsledek utkání\bin\Debug\Výsledek utkání.exe.config
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Výsledek utkání\Výsledek utkání\bin\Debug\Výsledek utkání.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Výsledek utkání\Výsledek utkání\bin\Debug\Výsledek utkání.pdb
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Výsledek utkání\Výsledek utkání\obj\Debug\Výsledek_utkání.oknoProgramu.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Výsledek utkání\Výsledek utkání\obj\Debug\Výsledek_utkání.Properties.Resources.resources
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Výsledek utkání\Výsledek utkání\obj\Debug\Výsledek utkání.csproj.GenerateResource.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Výsledek utkání\Výsledek utkání\obj\Debug\Výsledek utkání.csproj.CoreCompileInputs.cache
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Výsledek utkání\Výsledek utkání\obj\Debug\Výsledek utkání.exe
+D:\2021-2022\Ivz 3.A 7.P\Programování\05\Výsledek utkání\Výsledek utkání\obj\Debug\Výsledek utkání.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Výsledek utkání\Výsledek utkání\bin\Debug\Výsledek utkání.exe.config
+G:\2023-2024\Ivz 7.P\Programování\05\Výsledek utkání\Výsledek utkání\bin\Debug\Výsledek utkání.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Výsledek utkání\Výsledek utkání\bin\Debug\Výsledek utkání.pdb
+G:\2023-2024\Ivz 7.P\Programování\05\Výsledek utkání\Výsledek utkání\obj\Debug\Výsledek utkání.csproj.AssemblyReference.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Výsledek utkání\Výsledek utkání\obj\Debug\Výsledek_utkání.oknoProgramu.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Výsledek utkání\Výsledek utkání\obj\Debug\Výsledek_utkání.Properties.Resources.resources
+G:\2023-2024\Ivz 7.P\Programování\05\Výsledek utkání\Výsledek utkání\obj\Debug\Výsledek utkání.csproj.GenerateResource.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Výsledek utkání\Výsledek utkání\obj\Debug\Výsledek utkání.csproj.CoreCompileInputs.cache
+G:\2023-2024\Ivz 7.P\Programování\05\Výsledek utkání\Výsledek utkání\obj\Debug\Výsledek utkání.exe
+G:\2023-2024\Ivz 7.P\Programování\05\Výsledek utkání\Výsledek utkání\obj\Debug\Výsledek utkání.pdb

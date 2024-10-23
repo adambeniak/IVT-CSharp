@@ -1,0 +1,10 @@
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Obdélníčky\Obdélníčky\bin\Debug\Obdélníčky.exe.config
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Obdélníčky\Obdélníčky\bin\Debug\Obdélníčky.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Obdélníčky\Obdélníčky\bin\Debug\Obdélníčky.pdb
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Obdélníčky\Obdélníčky\obj\Debug\Obdélníčky.csproj.AssemblyReference.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Obdélníčky\Obdélníčky\obj\Debug\Obdélníčky.oknoProgramu.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Obdélníčky\Obdélníčky\obj\Debug\Obdélníčky.Properties.Resources.resources
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Obdélníčky\Obdélníčky\obj\Debug\Obdélníčky.csproj.GenerateResource.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Obdélníčky\Obdélníčky\obj\Debug\Obdélníčky.csproj.CoreCompileInputs.cache
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Obdélníčky\Obdélníčky\obj\Debug\Obdélníčky.exe
+G:\2021-2022\Ivz 3.A 7.P\Programování\06\Obdélníčky\Obdélníčky\obj\Debug\Obdélníčky.pdb
